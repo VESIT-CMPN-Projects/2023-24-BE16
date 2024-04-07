@@ -1,0 +1,121 @@
+{% extends 'homeApp/base.html' %}
+{% load static %}
+
+{% block content %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Predict Poverty Status</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="mb-4">Predict Poverty Status</h1>
+        <form action="{% url 'poverty:predict_poverty_status_view' %}" method="post">
+            {% csrf_token %}
+            <div class="form-group">
+                <label for="income">How much money you make each month (in your local money):</label>
+                <input type="number" class="form-control" id="income" name="income" required>
+            </div>
+            <div class="form-group">
+                <label for="education_level">How much schooling you've had:</label>
+                <select class="form-control" name="education_level" id="education_level">
+                    <option value="No Education">None (You haven't gone to school)</option>
+                    <option value="Primary School">Primary School (You've finished elementary school)</option>
+                    <option value="High School">High School (You've finished secondary school)</option>
+                    <option value="College">College (You've attended further education after high school)</option>
+                    <option value="Graduate">Graduate (You've completed university or higher education)</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="family_size">How many people live with you:</label>
+                <input type="number" class="form-control" id="family_size" name="family_size" required>
+            </div>
+            <div class="form-group">
+                <label for="access_healthcare">If you can easily see a doctor when you're sick:</label>
+                <select class="form-control" name="access_healthcare" id="access_healthcare">
+                    <option value="Yes">Yes</option>
+                    <option value="No">No</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="access_to_employment">If you can easily find a job:</label>
+                <select class="form-control" name="access_to_employment" id="access_to_employment">
+                    <option value="Yes">Yes</option>
+                    <option value="No">No</option>
+                </select>
+            </div>
+       
+            <div class="form-group">
+                <label for="access_to_education">If schools are close by:</label>
+                <select class="form-control" name="access_to_education" id="access_to_education">
+                    <option value="Yes">Yes</option>
+                    <option value="No">No</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="access_to_sanitation">If you have clean bathrooms and places to wash:</label>
+                <select class="form-control" name="access_to_sanitation" id="access_to_sanitation">
+                    <option value="Yes">Yes</option>
+                    <option value="No">No</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="access_to_water">If you have clean water to drink and use:</label>
+                <select class="form-control" name="access_to_water" id="access_to_water">
+                    <option value="Yes">Yes</option>
+                    <option value="No">No</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="distance_to_market">How far away the nearest market is (in kilometers):</label>
+                <input type="number" class="form-control" id="distance_to_market" name="distance_to_market" required>
+            </div>
+            <div class="form-group">
+                <label for="household_ownership">If you own or rent your home:</label>
+                <select class="form-control" name="household_ownership" id="household_ownership">
+                    <option value="Owned">Owned</option>
+                    <option value="Rented">Rented</option>
+                    <option value="Other">Other</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="employment_type">What kind of work you do:</label>
+                <select class="form-control" name="employment_type" id="employment_type">
+                    <option value="Agriculture">Farming or working with crops or animals</option>
+                    <option value="Manufacturing">Making things like clothes or furniture</option>
+                    <option value="Services">Helping people or doing tasks for others</option>
+                    <option value="Unemployed">Not currently working for pay</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="access_to_internet">If you can use the internet:</label>
+                <select class="form-control" name="access_to_internet" id="access_to_internet">
+                    <option value="Yes">Yes</option>
+                    <option value="No">No</option>
+                </select>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Predict Poverty Status</button>
+        </form>
+    </div>
+     <!-- Prediction result display -->
+     <div id="result" class="mt-4">
+        {% if prediction_result is not None %}
+            {% if prediction_result == 1 %}
+                <div class="alert alert-danger" role="alert">
+                    At Risk of Poverty
+                </div>
+            {% elif prediction_result == 0 %}
+                <div class="alert alert-success" role="alert">
+                    Not At Risk of Poverty
+                </div>
+            {% endif %}
+        {% endif %}
+    </div>
+</body>
+</html>
+{% endblock %}
+

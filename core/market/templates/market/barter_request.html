@@ -1,0 +1,27 @@
+<!-- market/templates/market/barter_request.html -->
+{% extends 'homeApp/base.html' %}
+
+{% block content %}
+  <div class="container mt-5">
+    <div class="row justify-content-center">
+      <div class="col-md-8">
+        <div class="card">
+          <div class="card-header">
+            <h2 class="mb-0">Barter Request for {{ product.name }}</h2>
+          </div>
+          <div class="card-body">
+            <form method="post" id="barterForm">
+              {% csrf_token %}
+              {{ form.as_p }}
+              <button type="submit" class="btn btn-primary">Submit Barter Request</button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Include Bootstrap JS (make sure you have Bootstrap CSS and JS linked in your base.html) -->
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  <!-- Optional: Include your custom CSS and JS files if needed -->
+{% endblock %}

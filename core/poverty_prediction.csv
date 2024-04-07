@@ -1,0 +1,1001 @@
+Income,Education_Level,Family_Size,Access_to_Healthcare,Access_to_Employment,Access_to_Education,Access_to_Sanitation,Access_to_Water,Distance_to_Market,Household_Ownership,Employment_Type,Access_to_Internet,Poverty_Status
+2070,Primary School,5,Yes,No,No,No,Yes,17,Owned,Manufacturing,Yes,1
+4159,No Education,3,No,No,No,Yes,Yes,11,Other,Agriculture,No,1
+2299,Graduate,1,No,Yes,Yes,No,Yes,23,Other,Services,Yes,1
+3177,No Education,7,Yes,Yes,No,Yes,Yes,4,Rented,Unemployed,No,1
+1423,College,5,No,No,Yes,Yes,Yes,12,Rented,Manufacturing,No,1
+3111,College,7,Yes,No,No,No,Yes,1,Owned,Agriculture,No,1
+1645,Graduate,1,Yes,No,Yes,No,No,14,Rented,Agriculture,Yes,0
+2301,Primary School,7,Yes,Yes,No,No,No,9,Rented,Unemployed,Yes,1
+1155,Graduate,1,No,No,No,Yes,No,30,Other,Services,No,1
+2661,High School,4,Yes,Yes,Yes,No,No,48,Other,Unemployed,No,0
+2226,High School,6,No,No,Yes,No,No,31,Rented,Services,No,1
+2239,Primary School,1,Yes,No,No,No,No,15,Owned,Manufacturing,Yes,1
+4061,Primary School,1,Yes,No,Yes,Yes,No,12,Other,Manufacturing,Yes,0
+4013,Graduate,7,No,Yes,No,Yes,No,29,Other,Agriculture,Yes,1
+3617,College,3,Yes,No,Yes,Yes,Yes,38,Owned,Unemployed,No,0
+2589,No Education,4,Yes,Yes,No,Yes,Yes,11,Owned,Agriculture,Yes,1
+3364,No Education,7,No,Yes,No,Yes,No,10,Rented,Agriculture,Yes,1
+4405,No Education,3,Yes,No,No,No,No,41,Other,Agriculture,No,1
+3159,College,3,Yes,No,No,Yes,No,16,Rented,Agriculture,No,1
+3998,Graduate,3,No,Yes,No,Yes,No,36,Other,Manufacturing,Yes,1
+2267,High School,1,Yes,No,Yes,No,Yes,1,Other,Services,No,0
+1044,Primary School,1,No,No,No,No,No,35,Rented,Services,No,1
+1083,High School,2,Yes,No,Yes,Yes,No,3,Other,Manufacturing,No,0
+3173,Graduate,7,No,No,No,No,Yes,13,Owned,Services,No,1
+2579,No Education,5,No,Yes,Yes,No,Yes,5,Rented,Agriculture,No,1
+4787,High School,7,No,No,Yes,Yes,Yes,48,Owned,Services,Yes,1
+3451,Graduate,4,Yes,Yes,No,Yes,No,32,Other,Agriculture,Yes,1
+1397,No Education,6,Yes,Yes,No,No,No,47,Other,Agriculture,Yes,1
+1347,High School,6,Yes,No,No,No,Yes,12,Other,Unemployed,Yes,1
+3132,College,1,No,Yes,No,No,No,10,Other,Agriculture,Yes,1
+2986,High School,7,Yes,Yes,Yes,Yes,Yes,27,Owned,Unemployed,No,0
+4000,No Education,1,No,No,No,No,Yes,43,Rented,Agriculture,Yes,1
+1132,No Education,1,No,No,No,Yes,No,17,Other,Manufacturing,Yes,1
+4974,Primary School,7,No,Yes,No,No,Yes,29,Owned,Services,No,1
+2112,No Education,1,Yes,Yes,Yes,No,No,13,Rented,Manufacturing,No,0
+3951,College,3,No,No,Yes,Yes,Yes,40,Rented,Services,Yes,1
+3687,High School,4,Yes,Yes,No,Yes,No,21,Rented,Agriculture,No,1
+1948,High School,1,No,No,Yes,No,No,46,Other,Services,Yes,1
+3407,College,3,Yes,Yes,No,Yes,No,29,Rented,Services,Yes,1
+3594,Primary School,7,Yes,Yes,Yes,No,Yes,41,Other,Unemployed,Yes,0
+4325,High School,6,No,No,No,Yes,No,18,Owned,Services,No,1
+4007,Graduate,5,No,No,Yes,Yes,Yes,25,Owned,Unemployed,Yes,1
+1434,Graduate,7,No,No,No,No,Yes,9,Rented,Services,No,1
+4191,College,7,No,Yes,Yes,Yes,No,49,Owned,Agriculture,No,1
+1367,College,7,Yes,Yes,Yes,Yes,No,12,Other,Unemployed,Yes,1
+1054,College,5,No,Yes,Yes,No,Yes,43,Owned,Unemployed,No,1
+1270,College,6,No,Yes,Yes,No,Yes,38,Owned,Services,No,1
+3501,College,1,Yes,Yes,No,No,No,13,Owned,Manufacturing,Yes,1
+4837,No Education,2,Yes,Yes,Yes,Yes,Yes,18,Owned,Agriculture,Yes,0
+4801,Graduate,4,No,Yes,No,Yes,Yes,44,Rented,Unemployed,Yes,1
+1814,Graduate,3,Yes,No,Yes,No,No,45,Owned,Agriculture,Yes,0
+2076,No Education,5,No,No,No,No,Yes,45,Other,Agriculture,Yes,1
+1519,College,4,No,Yes,No,Yes,No,23,Owned,Manufacturing,Yes,1
+4301,High School,2,Yes,No,No,No,No,17,Owned,Agriculture,No,1
+2559,No Education,3,No,No,Yes,Yes,Yes,4,Other,Manufacturing,Yes,1
+2749,College,6,No,Yes,No,Yes,No,5,Other,Services,Yes,1
+2071,Graduate,2,Yes,No,Yes,Yes,Yes,14,Owned,Agriculture,Yes,0
+1510,College,5,No,No,Yes,Yes,Yes,24,Other,Unemployed,Yes,1
+4735,No Education,5,No,No,Yes,Yes,No,33,Rented,Manufacturing,Yes,1
+3190,High School,7,No,No,No,Yes,Yes,1,Other,Agriculture,No,1
+4997,High School,3,Yes,Yes,Yes,No,No,39,Rented,Services,No,0
+4636,College,6,Yes,No,Yes,No,No,43,Owned,Agriculture,No,0
+4328,Primary School,5,Yes,No,No,Yes,No,8,Rented,Manufacturing,No,1
+4349,High School,3,No,Yes,No,Yes,Yes,27,Rented,Agriculture,Yes,1
+2713,College,4,Yes,Yes,No,Yes,No,25,Rented,Manufacturing,No,1
+1750,No Education,7,No,No,Yes,No,Yes,33,Rented,Services,No,1
+3896,No Education,7,Yes,No,Yes,Yes,No,25,Rented,Manufacturing,Yes,1
+1047,No Education,7,Yes,No,No,No,No,43,Other,Unemployed,No,1
+3597,College,5,Yes,Yes,Yes,Yes,Yes,11,Rented,Unemployed,No,0
+1528,Graduate,4,Yes,Yes,Yes,No,No,32,Other,Services,Yes,0
+4255,Primary School,5,No,Yes,Yes,Yes,No,34,Owned,Agriculture,No,1
+3387,Graduate,2,Yes,No,Yes,Yes,Yes,17,Other,Unemployed,Yes,0
+4664,Graduate,3,No,No,No,No,Yes,32,Rented,Agriculture,Yes,1
+2285,Primary School,2,No,Yes,No,Yes,Yes,18,Owned,Manufacturing,Yes,1
+1695,No Education,4,Yes,No,Yes,No,Yes,5,Rented,Unemployed,No,1
+3586,College,7,No,No,No,Yes,No,36,Owned,Agriculture,Yes,1
+2780,Graduate,3,Yes,Yes,Yes,No,Yes,49,Owned,Agriculture,Yes,0
+4642,College,2,Yes,Yes,No,Yes,Yes,43,Other,Unemployed,Yes,1
+1096,No Education,6,Yes,No,No,No,No,6,Owned,Services,Yes,1
+1573,Graduate,7,No,Yes,Yes,Yes,No,45,Rented,Agriculture,No,1
+2374,Primary School,6,No,No,No,Yes,Yes,40,Other,Manufacturing,No,1
+1513,No Education,2,No,No,No,Yes,No,4,Owned,Unemployed,Yes,1
+3354,Graduate,7,Yes,Yes,Yes,No,No,25,Rented,Unemployed,No,0
+3082,Primary School,1,Yes,Yes,Yes,Yes,No,44,Rented,Manufacturing,No,0
+3311,College,5,Yes,Yes,No,Yes,Yes,7,Rented,Services,No,1
+1640,Primary School,4,Yes,Yes,Yes,Yes,No,36,Rented,Services,No,0
+3121,High School,3,Yes,Yes,Yes,Yes,Yes,18,Owned,Services,No,0
+4843,Primary School,4,Yes,Yes,Yes,Yes,No,14,Rented,Unemployed,Yes,0
+4025,Graduate,3,No,No,No,No,No,8,Owned,Manufacturing,No,1
+4936,Primary School,3,Yes,Yes,No,Yes,Yes,3,Rented,Manufacturing,Yes,1
+3126,College,4,No,Yes,Yes,No,No,9,Other,Manufacturing,No,1
+2566,College,2,No,Yes,No,Yes,Yes,15,Other,Unemployed,Yes,1
+4365,College,4,Yes,No,No,Yes,No,38,Other,Unemployed,No,1
+2024,Primary School,4,Yes,No,No,No,No,6,Owned,Agriculture,Yes,1
+3523,College,2,No,Yes,Yes,Yes,Yes,3,Rented,Agriculture,Yes,1
+1563,Primary School,7,Yes,Yes,Yes,No,Yes,33,Owned,Agriculture,Yes,1
+4842,No Education,4,Yes,Yes,Yes,No,No,27,Owned,Agriculture,No,0
+1075,High School,7,Yes,No,No,No,Yes,33,Rented,Manufacturing,Yes,1
+2925,College,2,No,No,Yes,No,Yes,44,Owned,Unemployed,Yes,1
+3174,No Education,5,No,No,Yes,Yes,Yes,23,Owned,Manufacturing,No,1
+4798,High School,4,Yes,Yes,Yes,Yes,Yes,12,Rented,Agriculture,No,0
+1223,High School,4,Yes,Yes,Yes,No,Yes,33,Owned,Unemployed,Yes,0
+2100,No Education,2,Yes,No,Yes,No,Yes,14,Other,Manufacturing,Yes,1
+3436,Primary School,4,No,No,Yes,No,Yes,37,Other,Services,Yes,1
+2103,Graduate,4,No,Yes,No,No,Yes,42,Other,Agriculture,Yes,1
+1444,Primary School,7,No,Yes,No,No,No,33,Owned,Services,Yes,1
+2819,Primary School,6,No,No,No,No,Yes,2,Rented,Manufacturing,No,1
+2911,No Education,3,No,No,Yes,Yes,No,33,Owned,Agriculture,No,1
+3495,High School,6,No,No,No,Yes,No,2,Owned,Unemployed,No,1
+1090,High School,7,No,Yes,Yes,Yes,No,46,Owned,Manufacturing,Yes,1
+4561,No Education,1,No,No,Yes,Yes,Yes,18,Owned,Unemployed,No,1
+2587,Graduate,5,Yes,Yes,No,Yes,Yes,17,Rented,Manufacturing,No,1
+1766,High School,5,Yes,No,Yes,No,Yes,25,Other,Services,No,0
+1952,Primary School,1,No,Yes,No,Yes,No,34,Owned,Services,No,1
+1479,Primary School,6,Yes,Yes,No,Yes,No,18,Owned,Manufacturing,No,1
+3687,No Education,5,No,Yes,No,Yes,Yes,33,Other,Agriculture,Yes,1
+3868,College,5,Yes,Yes,Yes,Yes,Yes,48,Other,Agriculture,No,0
+2144,College,6,No,Yes,No,Yes,No,15,Other,Unemployed,Yes,1
+4219,No Education,5,No,Yes,Yes,Yes,No,48,Owned,Manufacturing,No,1
+1742,High School,2,Yes,Yes,No,No,No,48,Owned,Services,Yes,1
+4588,College,6,No,No,No,Yes,No,32,Owned,Unemployed,Yes,1
+2304,Primary School,3,Yes,Yes,Yes,No,No,24,Owned,Services,Yes,0
+4185,College,1,No,No,Yes,No,Yes,10,Rented,Unemployed,No,1
+1301,High School,6,No,Yes,No,No,No,48,Other,Manufacturing,No,1
+2844,College,4,No,No,Yes,Yes,No,49,Other,Unemployed,No,1
+1849,High School,2,Yes,No,No,No,No,20,Rented,Unemployed,Yes,1
+1531,Primary School,5,Yes,Yes,Yes,No,No,19,Other,Services,Yes,0
+3227,High School,6,Yes,Yes,No,No,No,19,Owned,Services,Yes,1
+4966,No Education,7,Yes,Yes,No,No,Yes,16,Owned,Services,Yes,1
+2300,Primary School,7,Yes,Yes,Yes,Yes,Yes,6,Other,Manufacturing,Yes,1
+1361,High School,2,Yes,Yes,Yes,Yes,Yes,32,Rented,Services,Yes,0
+2442,Primary School,1,No,Yes,No,No,No,16,Rented,Agriculture,Yes,1
+1013,Graduate,1,Yes,No,Yes,Yes,No,7,Owned,Manufacturing,Yes,0
+4230,No Education,7,No,No,Yes,No,No,38,Owned,Services,Yes,1
+4169,Graduate,1,No,Yes,No,No,No,31,Owned,Manufacturing,Yes,1
+1253,Graduate,6,Yes,No,No,Yes,Yes,6,Rented,Services,Yes,1
+3199,High School,1,No,No,No,No,Yes,41,Other,Agriculture,Yes,1
+3869,High School,7,No,No,No,Yes,Yes,45,Rented,Manufacturing,No,1
+4339,No Education,4,No,No,No,Yes,No,24,Rented,Services,No,1
+4945,College,6,No,No,Yes,No,No,10,Other,Unemployed,No,1
+2553,Graduate,1,Yes,Yes,No,Yes,No,33,Owned,Services,Yes,1
+2654,College,2,No,Yes,Yes,No,No,13,Other,Agriculture,No,1
+4744,College,6,Yes,No,No,No,No,26,Rented,Manufacturing,No,1
+1283,High School,2,Yes,Yes,Yes,Yes,Yes,14,Rented,Unemployed,Yes,0
+1918,Graduate,7,Yes,Yes,No,No,Yes,3,Other,Services,No,1
+1215,High School,6,Yes,No,No,Yes,Yes,11,Other,Agriculture,Yes,1
+4093,Graduate,6,Yes,Yes,Yes,Yes,Yes,20,Other,Agriculture,No,0
+4969,Graduate,5,No,No,No,Yes,No,19,Rented,Agriculture,Yes,1
+4834,High School,7,No,No,No,Yes,Yes,32,Other,Unemployed,No,1
+2412,High School,2,No,Yes,Yes,Yes,Yes,8,Other,Manufacturing,No,1
+3210,Graduate,1,Yes,Yes,Yes,Yes,Yes,40,Other,Unemployed,Yes,0
+1430,No Education,2,No,Yes,No,Yes,Yes,16,Rented,Services,No,1
+4905,Graduate,2,Yes,No,No,No,Yes,30,Other,Services,Yes,1
+3759,Graduate,1,Yes,Yes,Yes,Yes,Yes,49,Other,Unemployed,No,0
+3215,No Education,5,No,Yes,No,No,Yes,35,Owned,Manufacturing,No,1
+2067,College,6,Yes,No,No,No,Yes,29,Owned,Unemployed,No,1
+1119,College,7,Yes,Yes,Yes,No,Yes,16,Other,Agriculture,No,1
+4387,Primary School,5,No,No,Yes,No,Yes,26,Rented,Agriculture,Yes,1
+3565,College,7,Yes,Yes,No,No,No,8,Other,Manufacturing,No,1
+2131,No Education,1,No,No,Yes,No,No,47,Owned,Services,No,1
+4998,No Education,3,No,Yes,No,No,Yes,45,Owned,Agriculture,No,1
+4931,Graduate,6,Yes,No,Yes,Yes,No,18,Owned,Agriculture,No,0
+4053,High School,4,Yes,No,Yes,No,Yes,26,Owned,Unemployed,Yes,0
+2477,High School,5,No,Yes,No,No,No,20,Rented,Services,No,1
+4515,Primary School,1,No,No,Yes,Yes,Yes,37,Owned,Unemployed,No,1
+1192,Graduate,4,No,Yes,No,Yes,Yes,49,Other,Unemployed,Yes,1
+1917,College,3,No,No,Yes,No,Yes,15,Owned,Unemployed,Yes,1
+3896,College,4,Yes,Yes,Yes,No,No,35,Owned,Agriculture,Yes,0
+2098,College,2,No,No,No,Yes,Yes,17,Other,Manufacturing,Yes,1
+1816,Graduate,6,Yes,Yes,No,Yes,No,47,Owned,Manufacturing,Yes,1
+3551,Graduate,5,No,Yes,Yes,Yes,No,37,Other,Unemployed,No,1
+2186,No Education,7,No,No,Yes,Yes,No,17,Other,Services,No,1
+1674,Primary School,1,No,Yes,Yes,No,No,32,Rented,Unemployed,No,1
+3312,Primary School,2,Yes,No,Yes,Yes,No,1,Other,Manufacturing,No,0
+2288,No Education,5,No,No,Yes,Yes,Yes,19,Owned,Unemployed,No,1
+2858,No Education,5,No,No,No,Yes,Yes,43,Other,Agriculture,No,1
+4273,High School,4,Yes,No,Yes,No,Yes,36,Owned,Agriculture,Yes,0
+2414,Primary School,6,Yes,No,Yes,Yes,Yes,12,Other,Manufacturing,No,1
+2714,Primary School,7,Yes,No,No,No,Yes,10,Other,Agriculture,Yes,1
+2558,Primary School,7,Yes,Yes,No,Yes,No,5,Owned,Manufacturing,No,1
+3293,High School,3,No,Yes,No,No,No,47,Rented,Agriculture,Yes,1
+2504,Graduate,1,Yes,No,No,No,No,42,Owned,Services,No,1
+2014,Graduate,3,No,Yes,No,Yes,No,25,Rented,Agriculture,No,1
+2785,No Education,6,No,Yes,No,No,No,10,Owned,Unemployed,No,1
+4201,High School,2,Yes,Yes,No,Yes,Yes,28,Rented,Services,No,1
+2641,Primary School,3,Yes,No,No,Yes,Yes,40,Other,Agriculture,Yes,1
+4541,Primary School,3,Yes,Yes,No,Yes,Yes,41,Other,Agriculture,Yes,1
+4309,High School,3,No,Yes,Yes,Yes,No,2,Owned,Manufacturing,Yes,1
+3870,No Education,5,No,No,Yes,Yes,Yes,17,Owned,Services,No,1
+1932,Graduate,6,Yes,No,Yes,No,Yes,38,Other,Agriculture,Yes,1
+3204,High School,1,No,No,Yes,No,No,11,Other,Agriculture,Yes,1
+4258,College,3,Yes,Yes,Yes,No,No,41,Other,Services,Yes,0
+3365,High School,5,Yes,No,Yes,Yes,No,4,Rented,Services,No,0
+2742,High School,4,Yes,No,No,Yes,No,13,Owned,Manufacturing,No,1
+3528,College,2,Yes,No,No,No,Yes,48,Rented,Manufacturing,Yes,1
+1294,No Education,4,No,Yes,No,No,Yes,27,Rented,Agriculture,No,1
+4329,High School,7,No,No,No,No,No,7,Owned,Agriculture,Yes,1
+3965,No Education,5,Yes,Yes,No,No,No,17,Other,Services,No,1
+4979,Primary School,2,No,Yes,Yes,Yes,Yes,45,Owned,Unemployed,No,1
+4996,Primary School,6,Yes,Yes,Yes,No,Yes,27,Other,Manufacturing,No,0
+1555,Graduate,5,Yes,No,Yes,Yes,Yes,20,Owned,Services,Yes,0
+1103,No Education,6,Yes,No,Yes,Yes,Yes,16,Owned,Unemployed,No,1
+2851,Primary School,7,No,No,Yes,Yes,No,17,Other,Agriculture,No,1
+3079,No Education,7,Yes,No,Yes,Yes,Yes,31,Owned,Agriculture,Yes,1
+1460,High School,1,Yes,Yes,Yes,Yes,No,41,Owned,Services,Yes,0
+2064,High School,3,No,Yes,Yes,No,Yes,27,Other,Unemployed,No,1
+1917,No Education,5,Yes,No,No,Yes,No,19,Other,Services,No,1
+2320,College,3,No,No,No,Yes,Yes,29,Rented,Manufacturing,No,1
+1580,College,7,Yes,Yes,No,No,No,37,Rented,Services,Yes,1
+1210,Graduate,2,Yes,Yes,No,No,No,45,Rented,Agriculture,Yes,1
+3697,Primary School,3,Yes,Yes,No,No,Yes,19,Other,Manufacturing,No,1
+2636,No Education,2,No,No,Yes,No,Yes,25,Rented,Manufacturing,No,1
+3221,Primary School,6,Yes,Yes,No,Yes,No,12,Owned,Services,No,1
+4613,Primary School,4,No,Yes,Yes,No,Yes,15,Owned,Manufacturing,No,1
+4079,College,2,Yes,No,No,No,No,48,Other,Unemployed,Yes,1
+4735,High School,2,No,Yes,Yes,Yes,Yes,35,Rented,Unemployed,Yes,1
+1895,Graduate,7,Yes,Yes,Yes,Yes,No,49,Owned,Manufacturing,Yes,1
+3080,High School,6,No,Yes,No,Yes,No,24,Rented,Unemployed,No,1
+1093,High School,4,Yes,No,Yes,Yes,No,26,Owned,Unemployed,Yes,0
+3400,Graduate,4,No,No,Yes,Yes,Yes,42,Owned,Agriculture,No,1
+3001,High School,6,No,Yes,Yes,No,No,23,Rented,Manufacturing,Yes,1
+3488,Graduate,6,Yes,Yes,Yes,Yes,Yes,37,Other,Manufacturing,No,0
+2290,High School,4,Yes,No,No,Yes,Yes,20,Other,Services,No,1
+2479,Graduate,7,Yes,No,No,Yes,No,42,Other,Agriculture,No,1
+3492,Graduate,1,No,No,Yes,Yes,Yes,21,Other,Services,No,1
+2897,Graduate,3,Yes,No,Yes,Yes,No,49,Other,Unemployed,Yes,0
+2726,College,3,Yes,No,No,Yes,No,31,Owned,Agriculture,No,1
+2289,No Education,2,Yes,No,Yes,Yes,No,11,Rented,Unemployed,No,1
+2085,Graduate,3,Yes,Yes,No,No,No,43,Owned,Unemployed,No,1
+4270,Primary School,7,Yes,No,Yes,No,Yes,47,Rented,Unemployed,Yes,0
+4580,College,7,Yes,Yes,Yes,Yes,Yes,38,Owned,Unemployed,Yes,0
+3568,Primary School,2,No,No,Yes,Yes,Yes,39,Other,Services,Yes,1
+4380,Primary School,6,No,Yes,Yes,No,No,39,Other,Agriculture,No,1
+2700,High School,3,No,Yes,Yes,Yes,Yes,15,Other,Manufacturing,No,1
+1445,Graduate,7,Yes,No,Yes,Yes,No,45,Other,Services,No,1
+2713,No Education,5,Yes,No,Yes,Yes,No,9,Other,Services,Yes,1
+3747,No Education,2,No,No,No,No,No,48,Owned,Services,No,1
+2407,Primary School,6,Yes,No,Yes,No,Yes,42,Other,Manufacturing,Yes,1
+1089,College,4,Yes,No,Yes,Yes,Yes,4,Other,Services,No,0
+4570,College,3,Yes,No,No,No,No,35,Rented,Manufacturing,Yes,1
+3739,Graduate,6,No,No,Yes,Yes,No,26,Rented,Services,No,1
+4197,No Education,4,No,Yes,Yes,Yes,No,26,Rented,Manufacturing,Yes,1
+2357,Graduate,4,No,No,Yes,Yes,No,26,Owned,Unemployed,Yes,1
+4482,High School,6,Yes,Yes,Yes,No,No,13,Other,Manufacturing,Yes,0
+4689,No Education,7,Yes,No,No,No,Yes,39,Rented,Agriculture,Yes,1
+1201,High School,6,No,Yes,Yes,Yes,Yes,29,Owned,Agriculture,Yes,1
+1656,Graduate,6,Yes,No,No,Yes,No,25,Other,Unemployed,No,1
+1971,No Education,4,No,Yes,No,Yes,No,4,Rented,Services,Yes,1
+4131,Primary School,4,No,No,Yes,No,Yes,36,Rented,Services,No,1
+3816,No Education,4,Yes,Yes,No,Yes,No,31,Other,Manufacturing,No,1
+1677,Primary School,4,No,Yes,No,Yes,Yes,36,Other,Manufacturing,No,1
+1363,Graduate,5,No,Yes,Yes,Yes,No,4,Other,Agriculture,No,1
+1525,Graduate,6,No,Yes,Yes,No,No,35,Owned,Manufacturing,No,1
+1027,Graduate,6,No,No,No,No,No,32,Rented,Manufacturing,No,1
+2188,High School,2,Yes,No,Yes,No,No,19,Rented,Unemployed,No,0
+4360,College,3,No,No,No,No,No,39,Other,Services,Yes,1
+3665,Primary School,5,No,No,No,Yes,No,24,Rented,Services,No,1
+2317,High School,1,Yes,No,Yes,No,No,44,Rented,Agriculture,Yes,0
+1324,Primary School,1,Yes,No,Yes,No,No,8,Owned,Services,No,0
+1358,Primary School,2,No,No,No,Yes,Yes,36,Other,Agriculture,No,1
+3431,Primary School,1,No,Yes,No,Yes,Yes,11,Owned,Agriculture,No,1
+1431,Primary School,2,Yes,No,No,No,Yes,35,Other,Unemployed,No,1
+3907,College,2,Yes,No,No,Yes,No,12,Rented,Manufacturing,Yes,1
+3415,High School,4,Yes,No,Yes,Yes,No,9,Other,Manufacturing,Yes,0
+1174,Graduate,3,No,Yes,Yes,Yes,No,9,Other,Agriculture,Yes,1
+3948,College,7,Yes,No,No,No,Yes,9,Owned,Unemployed,Yes,1
+1821,No Education,6,Yes,No,Yes,Yes,Yes,25,Rented,Agriculture,Yes,1
+3892,Primary School,5,No,No,No,No,No,43,Rented,Manufacturing,No,1
+2961,College,4,No,No,No,No,No,34,Owned,Services,Yes,1
+2554,Primary School,5,Yes,Yes,No,Yes,No,24,Rented,Agriculture,No,1
+3309,High School,6,No,Yes,Yes,No,No,26,Other,Manufacturing,No,1
+2574,Graduate,1,Yes,Yes,Yes,Yes,Yes,44,Other,Services,No,0
+4565,No Education,1,Yes,Yes,No,No,No,31,Owned,Agriculture,No,1
+4281,Graduate,7,No,Yes,Yes,Yes,No,26,Other,Services,No,1
+4693,Primary School,2,Yes,No,Yes,Yes,Yes,23,Owned,Services,No,0
+1882,Primary School,3,Yes,Yes,Yes,Yes,Yes,9,Other,Unemployed,Yes,0
+2629,Graduate,7,Yes,No,No,No,No,2,Rented,Unemployed,Yes,1
+4363,No Education,3,No,Yes,Yes,Yes,No,49,Other,Services,No,1
+3956,Graduate,7,No,Yes,No,Yes,Yes,34,Other,Unemployed,Yes,1
+3541,High School,4,Yes,No,No,Yes,Yes,8,Other,Agriculture,No,1
+2006,Primary School,1,Yes,No,No,Yes,No,43,Owned,Agriculture,No,1
+2494,No Education,1,Yes,Yes,Yes,Yes,Yes,1,Rented,Unemployed,Yes,0
+2891,Primary School,3,No,No,Yes,Yes,No,3,Owned,Agriculture,Yes,1
+4145,Primary School,5,Yes,No,Yes,No,Yes,38,Rented,Agriculture,Yes,0
+1605,Primary School,3,No,No,No,No,No,11,Rented,Manufacturing,Yes,1
+4810,Graduate,5,Yes,No,No,No,No,47,Owned,Unemployed,Yes,1
+1114,No Education,7,No,Yes,No,Yes,No,1,Owned,Manufacturing,No,1
+1976,College,5,Yes,No,No,No,Yes,17,Other,Manufacturing,Yes,1
+3508,College,1,Yes,Yes,Yes,No,No,37,Rented,Manufacturing,Yes,0
+4548,Graduate,3,No,No,No,No,No,25,Other,Services,No,1
+1935,Graduate,1,No,No,No,No,No,40,Owned,Manufacturing,No,1
+4749,College,4,No,Yes,No,No,No,14,Rented,Services,No,1
+4781,Graduate,3,No,Yes,Yes,No,No,13,Rented,Manufacturing,Yes,1
+4257,Primary School,6,No,Yes,No,No,No,21,Owned,Unemployed,Yes,1
+1766,Graduate,2,Yes,No,No,Yes,Yes,37,Owned,Agriculture,Yes,1
+1230,Primary School,7,Yes,No,Yes,No,No,41,Rented,Agriculture,Yes,1
+3498,Primary School,4,No,Yes,No,Yes,Yes,24,Other,Agriculture,Yes,1
+1938,No Education,2,No,No,No,No,No,32,Other,Services,No,1
+4794,No Education,4,No,Yes,No,Yes,Yes,13,Owned,Unemployed,No,1
+3036,High School,1,Yes,No,Yes,Yes,Yes,28,Other,Unemployed,No,0
+2085,Graduate,1,Yes,Yes,Yes,Yes,Yes,48,Owned,Manufacturing,No,0
+2644,High School,4,Yes,Yes,No,Yes,Yes,47,Rented,Services,No,1
+3309,Graduate,5,No,No,Yes,No,Yes,24,Rented,Services,Yes,1
+4910,Primary School,6,No,No,Yes,Yes,No,37,Other,Services,Yes,1
+3514,Primary School,7,Yes,Yes,No,Yes,Yes,32,Owned,Agriculture,No,1
+4695,College,3,No,No,Yes,Yes,No,26,Other,Unemployed,Yes,1
+4995,High School,3,Yes,Yes,Yes,No,Yes,24,Rented,Unemployed,No,0
+2605,College,6,Yes,No,Yes,Yes,No,11,Owned,Services,No,0
+1870,Graduate,3,Yes,No,No,No,No,36,Owned,Services,Yes,1
+3581,College,1,No,No,Yes,No,No,11,Owned,Manufacturing,No,1
+2883,Primary School,6,No,No,Yes,No,Yes,48,Rented,Services,Yes,1
+2085,No Education,2,Yes,Yes,No,No,Yes,47,Other,Manufacturing,Yes,1
+3673,High School,7,No,No,No,Yes,Yes,40,Other,Unemployed,Yes,1
+2315,High School,4,No,Yes,No,No,Yes,23,Owned,Agriculture,Yes,1
+2428,Primary School,6,Yes,No,No,Yes,No,46,Other,Manufacturing,No,1
+1467,High School,2,Yes,Yes,Yes,Yes,No,45,Other,Services,No,0
+1034,No Education,5,Yes,Yes,Yes,No,Yes,20,Other,Agriculture,No,0
+3336,No Education,3,No,Yes,Yes,No,Yes,24,Other,Manufacturing,No,1
+4378,High School,5,No,Yes,No,No,Yes,12,Rented,Services,No,1
+3282,Primary School,2,No,Yes,No,Yes,No,46,Owned,Unemployed,No,1
+3828,College,3,Yes,Yes,No,Yes,No,17,Rented,Manufacturing,No,1
+4750,Primary School,1,No,No,Yes,Yes,Yes,1,Owned,Services,No,1
+2042,High School,3,No,No,No,Yes,No,1,Owned,Services,No,1
+4130,No Education,3,Yes,No,Yes,Yes,No,7,Owned,Unemployed,No,1
+3765,Graduate,7,No,Yes,No,Yes,No,36,Rented,Services,No,1
+3286,High School,1,No,No,No,Yes,No,34,Other,Manufacturing,Yes,1
+1227,Graduate,1,No,Yes,Yes,No,Yes,49,Other,Unemployed,Yes,1
+3691,College,1,Yes,No,Yes,Yes,No,41,Owned,Agriculture,Yes,0
+2599,Primary School,5,Yes,Yes,Yes,No,Yes,11,Owned,Services,No,0
+2698,High School,3,Yes,Yes,No,Yes,No,7,Rented,Unemployed,No,1
+3563,College,3,No,Yes,No,Yes,No,26,Owned,Unemployed,Yes,1
+2540,Graduate,6,No,Yes,No,No,Yes,16,Other,Services,Yes,1
+4682,No Education,7,Yes,Yes,Yes,Yes,Yes,9,Owned,Agriculture,No,0
+1458,High School,4,No,Yes,Yes,Yes,Yes,47,Other,Manufacturing,No,1
+4031,High School,6,No,Yes,Yes,Yes,No,1,Other,Services,Yes,1
+2384,Graduate,1,Yes,Yes,No,Yes,No,26,Other,Services,Yes,1
+3752,High School,7,Yes,Yes,No,Yes,No,45,Other,Manufacturing,Yes,1
+4438,Graduate,5,Yes,Yes,Yes,Yes,No,21,Rented,Agriculture,Yes,0
+2413,No Education,7,Yes,Yes,Yes,Yes,No,45,Owned,Agriculture,Yes,1
+2580,Primary School,5,Yes,No,Yes,Yes,Yes,38,Rented,Unemployed,No,0
+1343,High School,6,No,Yes,No,Yes,No,17,Rented,Agriculture,Yes,1
+4236,Primary School,3,Yes,No,No,No,Yes,26,Rented,Agriculture,Yes,1
+1711,No Education,1,Yes,Yes,No,No,Yes,4,Other,Services,Yes,1
+2880,Graduate,6,No,Yes,Yes,Yes,Yes,26,Rented,Manufacturing,Yes,1
+3385,College,4,No,Yes,Yes,Yes,No,11,Other,Manufacturing,No,1
+3267,Primary School,6,Yes,No,Yes,Yes,Yes,35,Other,Manufacturing,Yes,0
+1406,High School,2,Yes,Yes,Yes,Yes,Yes,33,Owned,Agriculture,No,0
+4473,Primary School,2,Yes,Yes,Yes,No,No,34,Other,Services,No,0
+2388,Graduate,3,Yes,Yes,Yes,No,No,21,Rented,Unemployed,Yes,0
+2406,College,6,Yes,No,Yes,No,No,39,Owned,Manufacturing,Yes,1
+1042,Graduate,2,Yes,No,No,No,Yes,41,Other,Services,No,1
+3447,High School,3,Yes,No,Yes,No,No,41,Owned,Manufacturing,Yes,0
+2807,Primary School,3,Yes,No,No,Yes,No,20,Rented,Services,No,1
+3218,No Education,7,No,No,Yes,No,No,24,Other,Agriculture,No,1
+2579,College,1,Yes,No,Yes,Yes,No,49,Owned,Agriculture,Yes,0
+3293,Graduate,7,No,Yes,No,No,Yes,29,Owned,Unemployed,Yes,1
+3501,College,3,No,No,No,Yes,No,49,Other,Manufacturing,No,1
+2786,College,3,No,Yes,Yes,Yes,Yes,9,Owned,Agriculture,Yes,1
+2585,No Education,2,No,No,Yes,Yes,Yes,2,Rented,Manufacturing,No,1
+4662,Primary School,1,Yes,No,No,No,Yes,19,Other,Manufacturing,No,1
+4721,College,2,No,No,No,No,No,41,Rented,Agriculture,No,1
+2796,Primary School,7,Yes,Yes,Yes,Yes,Yes,26,Other,Agriculture,No,0
+3437,No Education,3,No,Yes,Yes,Yes,No,38,Other,Agriculture,No,1
+1732,High School,3,Yes,No,Yes,Yes,Yes,5,Owned,Services,Yes,0
+3872,College,2,No,No,Yes,No,Yes,10,Rented,Unemployed,No,1
+1183,Graduate,4,Yes,Yes,Yes,No,No,29,Owned,Services,Yes,0
+4633,College,7,Yes,No,No,Yes,Yes,17,Owned,Manufacturing,No,1
+4500,College,5,Yes,Yes,No,Yes,No,33,Other,Services,No,1
+2440,Primary School,2,No,Yes,Yes,Yes,No,43,Owned,Services,No,1
+3204,Primary School,5,Yes,No,Yes,No,Yes,30,Rented,Unemployed,Yes,0
+2520,High School,7,Yes,Yes,Yes,No,Yes,41,Other,Services,No,0
+1821,No Education,4,Yes,No,No,Yes,Yes,7,Rented,Services,No,1
+2490,Primary School,2,No,No,No,No,Yes,27,Rented,Manufacturing,No,1
+1275,No Education,2,No,Yes,Yes,Yes,Yes,47,Owned,Manufacturing,Yes,1
+3591,High School,1,Yes,Yes,No,No,No,2,Other,Services,Yes,1
+4800,College,3,No,No,No,Yes,Yes,22,Owned,Unemployed,No,1
+3489,College,4,No,No,No,Yes,No,22,Other,Manufacturing,Yes,1
+2326,Graduate,3,Yes,Yes,No,No,No,39,Owned,Services,Yes,1
+1201,Graduate,1,Yes,Yes,No,No,No,20,Owned,Services,Yes,1
+2800,High School,2,No,No,No,Yes,No,43,Rented,Agriculture,Yes,1
+1024,High School,2,No,Yes,No,No,Yes,10,Owned,Services,No,1
+2712,No Education,1,Yes,Yes,No,Yes,No,31,Owned,Services,Yes,1
+3066,High School,4,Yes,No,No,No,No,32,Other,Services,Yes,1
+4295,No Education,1,Yes,No,Yes,Yes,Yes,16,Owned,Manufacturing,No,1
+2504,High School,5,No,Yes,No,Yes,No,6,Other,Unemployed,Yes,1
+1546,High School,1,Yes,No,Yes,No,Yes,28,Owned,Unemployed,No,0
+4267,Graduate,3,Yes,Yes,No,Yes,No,3,Rented,Unemployed,No,1
+1314,High School,5,No,Yes,Yes,No,No,18,Owned,Unemployed,Yes,1
+4064,Primary School,4,No,Yes,Yes,Yes,No,17,Other,Unemployed,No,1
+4291,Graduate,2,No,No,No,No,Yes,5,Owned,Agriculture,Yes,1
+3339,College,4,No,Yes,Yes,No,No,10,Owned,Unemployed,No,1
+1521,Graduate,1,Yes,Yes,No,No,No,36,Other,Manufacturing,Yes,1
+3185,Primary School,4,Yes,No,No,No,Yes,48,Owned,Agriculture,Yes,1
+1523,College,4,No,Yes,Yes,No,No,34,Rented,Agriculture,Yes,1
+3894,Primary School,7,Yes,Yes,Yes,Yes,Yes,24,Rented,Unemployed,No,0
+3927,High School,1,No,Yes,No,No,No,38,Other,Unemployed,No,1
+2772,Primary School,6,Yes,Yes,Yes,Yes,Yes,42,Owned,Unemployed,Yes,0
+2209,College,5,No,No,Yes,No,Yes,34,Other,Services,No,1
+1178,High School,1,No,No,No,Yes,No,41,Other,Unemployed,Yes,1
+1230,Primary School,5,No,Yes,No,No,No,30,Other,Services,No,1
+3377,Primary School,5,No,No,Yes,Yes,No,25,Other,Unemployed,Yes,1
+1432,Primary School,6,Yes,Yes,Yes,No,Yes,35,Rented,Unemployed,No,1
+2114,Primary School,6,No,Yes,Yes,Yes,Yes,32,Other,Unemployed,Yes,1
+2809,High School,2,Yes,No,No,No,No,30,Rented,Unemployed,Yes,1
+3474,College,6,No,Yes,Yes,Yes,No,24,Rented,Manufacturing,No,1
+3994,College,2,Yes,No,No,Yes,Yes,16,Other,Services,Yes,1
+1079,High School,1,No,Yes,No,No,No,30,Owned,Unemployed,Yes,1
+2485,Graduate,1,No,No,Yes,No,No,17,Other,Agriculture,No,1
+2568,Primary School,5,No,Yes,Yes,No,No,13,Rented,Unemployed,Yes,1
+3783,Graduate,6,Yes,Yes,Yes,No,Yes,4,Owned,Services,No,0
+4651,Primary School,4,No,Yes,No,No,Yes,39,Other,Unemployed,Yes,1
+3935,High School,5,No,No,Yes,Yes,Yes,49,Other,Manufacturing,Yes,1
+1596,Graduate,2,Yes,No,Yes,No,No,32,Rented,Agriculture,No,0
+2892,No Education,3,No,Yes,No,No,No,26,Owned,Unemployed,No,1
+1561,College,5,No,Yes,No,No,No,25,Owned,Unemployed,No,1
+2428,High School,3,Yes,No,No,Yes,No,39,Other,Agriculture,Yes,1
+2157,No Education,7,No,Yes,No,Yes,No,38,Owned,Manufacturing,No,1
+2504,Graduate,1,No,Yes,Yes,Yes,Yes,37,Rented,Manufacturing,No,1
+3822,No Education,3,No,Yes,Yes,Yes,Yes,10,Owned,Unemployed,No,1
+1303,Graduate,7,Yes,No,Yes,No,No,22,Other,Unemployed,No,1
+3713,High School,4,No,Yes,No,No,No,27,Rented,Unemployed,No,1
+2032,Primary School,7,Yes,No,Yes,No,No,41,Owned,Services,Yes,1
+4364,High School,6,No,Yes,Yes,Yes,Yes,41,Other,Agriculture,No,1
+3658,No Education,3,No,No,Yes,No,Yes,29,Owned,Services,Yes,1
+4874,College,5,Yes,Yes,Yes,Yes,Yes,45,Rented,Manufacturing,No,0
+3991,No Education,7,Yes,Yes,No,Yes,No,40,Owned,Manufacturing,Yes,1
+2049,No Education,2,No,No,Yes,Yes,Yes,34,Other,Unemployed,No,1
+1126,Primary School,4,Yes,Yes,Yes,Yes,No,7,Other,Agriculture,Yes,0
+2125,College,3,Yes,Yes,No,Yes,No,49,Rented,Agriculture,No,1
+4501,Graduate,7,Yes,Yes,Yes,No,No,6,Other,Services,No,0
+1598,Graduate,5,No,No,No,Yes,Yes,24,Other,Unemployed,Yes,1
+3259,College,3,No,Yes,No,No,Yes,34,Other,Manufacturing,No,1
+3366,High School,7,No,Yes,Yes,Yes,Yes,30,Other,Unemployed,No,1
+4974,Primary School,2,No,No,Yes,No,No,46,Other,Services,No,1
+1372,College,3,Yes,Yes,No,No,Yes,9,Other,Agriculture,No,1
+3302,College,4,No,No,Yes,Yes,No,44,Rented,Agriculture,Yes,1
+3172,Primary School,6,Yes,No,Yes,No,Yes,25,Owned,Manufacturing,No,0
+4253,Primary School,3,No,Yes,Yes,Yes,No,23,Other,Unemployed,No,1
+3143,High School,6,Yes,Yes,Yes,Yes,Yes,16,Rented,Agriculture,No,0
+3401,Primary School,4,No,No,No,No,No,23,Other,Services,Yes,1
+2028,Primary School,1,Yes,No,Yes,Yes,No,20,Rented,Agriculture,No,0
+1464,Primary School,3,No,No,No,Yes,No,11,Owned,Unemployed,No,1
+1855,College,7,No,No,Yes,Yes,No,35,Owned,Manufacturing,Yes,1
+1888,High School,3,No,No,No,Yes,No,42,Other,Services,No,1
+2363,No Education,1,Yes,Yes,Yes,Yes,Yes,46,Other,Unemployed,No,0
+3441,No Education,6,No,No,Yes,Yes,Yes,12,Other,Manufacturing,Yes,1
+2904,Primary School,7,No,Yes,Yes,No,No,41,Rented,Manufacturing,Yes,1
+1240,High School,1,No,No,No,Yes,Yes,49,Rented,Services,Yes,1
+1405,Graduate,5,No,Yes,Yes,No,Yes,47,Rented,Manufacturing,Yes,1
+1837,Graduate,2,Yes,No,Yes,Yes,Yes,48,Rented,Services,No,0
+3539,Primary School,6,No,Yes,No,Yes,Yes,11,Other,Agriculture,Yes,1
+1332,College,1,No,No,Yes,Yes,Yes,36,Other,Agriculture,Yes,1
+4739,Primary School,1,No,Yes,Yes,Yes,Yes,43,Rented,Agriculture,No,1
+2792,High School,6,Yes,No,No,No,No,32,Rented,Agriculture,Yes,1
+4601,Graduate,6,Yes,No,No,No,No,28,Other,Agriculture,No,1
+3217,Graduate,4,No,No,No,No,Yes,8,Rented,Services,Yes,1
+2477,College,5,Yes,No,No,No,Yes,10,Owned,Manufacturing,Yes,1
+2439,No Education,5,No,Yes,Yes,No,Yes,35,Rented,Manufacturing,No,1
+1879,High School,6,Yes,Yes,No,Yes,Yes,16,Rented,Services,No,1
+4798,Graduate,3,Yes,Yes,No,No,No,32,Rented,Unemployed,No,1
+1234,College,2,No,Yes,No,Yes,Yes,15,Owned,Unemployed,No,1
+3129,Primary School,2,Yes,No,No,No,No,20,Owned,Unemployed,Yes,1
+1206,High School,4,No,Yes,Yes,Yes,No,7,Other,Services,No,1
+4957,High School,3,Yes,No,Yes,Yes,No,33,Owned,Agriculture,No,0
+2958,Primary School,6,No,No,No,No,Yes,41,Rented,Manufacturing,No,1
+1976,No Education,6,Yes,Yes,No,No,No,35,Other,Agriculture,Yes,1
+2340,Graduate,4,Yes,No,Yes,Yes,No,2,Other,Unemployed,No,0
+1265,No Education,3,No,No,Yes,Yes,Yes,16,Other,Manufacturing,Yes,1
+1869,Primary School,5,No,Yes,No,No,No,22,Rented,Services,No,1
+1146,Graduate,1,Yes,Yes,No,No,No,23,Other,Agriculture,No,1
+4297,Graduate,4,No,No,No,No,No,39,Other,Unemployed,Yes,1
+3990,High School,1,Yes,Yes,No,No,No,47,Owned,Services,No,1
+4089,College,4,No,No,No,Yes,Yes,17,Rented,Unemployed,Yes,1
+2302,College,1,Yes,Yes,No,No,Yes,28,Owned,Services,No,1
+2846,Primary School,1,No,Yes,Yes,No,No,35,Owned,Services,No,1
+1455,College,6,No,No,Yes,Yes,No,14,Other,Services,No,1
+2944,No Education,2,Yes,Yes,Yes,No,No,2,Other,Manufacturing,Yes,0
+3816,Graduate,2,Yes,No,No,Yes,Yes,49,Other,Unemployed,No,1
+2714,Primary School,5,Yes,Yes,Yes,No,No,37,Rented,Agriculture,No,0
+2774,Graduate,3,No,Yes,Yes,No,Yes,29,Owned,Unemployed,Yes,1
+3766,High School,3,Yes,Yes,No,Yes,Yes,49,Owned,Agriculture,Yes,1
+2204,College,1,Yes,No,Yes,No,No,7,Owned,Agriculture,Yes,0
+2281,Primary School,4,Yes,No,No,No,Yes,36,Other,Services,Yes,1
+4763,Graduate,3,No,Yes,Yes,Yes,Yes,26,Rented,Services,Yes,1
+1211,Graduate,6,No,Yes,No,Yes,No,38,Owned,Unemployed,Yes,1
+1196,No Education,2,Yes,No,No,No,No,4,Other,Agriculture,Yes,1
+1626,College,7,Yes,No,Yes,Yes,Yes,25,Owned,Manufacturing,No,1
+2918,Primary School,1,No,No,No,Yes,No,18,Rented,Agriculture,No,1
+3136,No Education,1,No,No,No,No,Yes,24,Rented,Services,Yes,1
+1207,College,4,Yes,No,No,No,Yes,34,Owned,Unemployed,No,1
+4106,Graduate,3,Yes,Yes,No,No,Yes,22,Rented,Services,Yes,1
+2319,Primary School,7,No,Yes,Yes,No,Yes,22,Rented,Unemployed,No,1
+4298,College,6,Yes,No,No,Yes,Yes,33,Rented,Manufacturing,Yes,1
+1080,College,1,No,No,Yes,Yes,No,8,Owned,Services,No,1
+4323,Primary School,6,Yes,Yes,Yes,Yes,No,2,Rented,Unemployed,No,0
+3933,College,5,No,No,No,No,No,19,Other,Manufacturing,No,1
+4191,College,2,Yes,No,No,Yes,Yes,16,Rented,Unemployed,Yes,1
+4952,Primary School,2,Yes,Yes,Yes,Yes,Yes,44,Owned,Unemployed,Yes,0
+2303,Graduate,4,No,No,Yes,No,No,42,Owned,Services,No,1
+3033,College,3,Yes,No,Yes,Yes,Yes,36,Owned,Agriculture,No,0
+1187,Graduate,5,Yes,No,Yes,No,No,31,Rented,Manufacturing,No,0
+4296,College,5,No,No,No,No,No,21,Owned,Agriculture,No,1
+4261,Primary School,6,No,Yes,No,Yes,Yes,6,Other,Unemployed,Yes,1
+3620,Primary School,5,Yes,No,Yes,Yes,No,28,Owned,Unemployed,No,0
+3862,College,3,No,Yes,Yes,Yes,No,27,Owned,Unemployed,Yes,1
+4117,College,6,No,Yes,Yes,Yes,Yes,46,Rented,Unemployed,No,1
+1019,College,3,Yes,Yes,Yes,No,Yes,44,Rented,Services,No,0
+4023,High School,3,No,No,No,No,Yes,38,Rented,Agriculture,No,1
+3742,Primary School,7,No,No,Yes,Yes,No,49,Rented,Unemployed,Yes,1
+2154,High School,1,No,Yes,No,Yes,No,16,Owned,Services,Yes,1
+4012,No Education,2,Yes,No,No,Yes,Yes,38,Other,Manufacturing,Yes,1
+2347,No Education,5,Yes,No,No,No,Yes,1,Owned,Services,No,1
+1403,High School,5,No,No,No,No,Yes,1,Owned,Services,No,1
+4201,Primary School,1,No,No,Yes,Yes,Yes,28,Owned,Manufacturing,No,1
+1849,College,6,Yes,Yes,No,No,Yes,24,Rented,Unemployed,Yes,1
+3133,No Education,3,Yes,Yes,Yes,Yes,No,48,Rented,Agriculture,Yes,0
+1249,Primary School,4,No,Yes,No,No,No,36,Owned,Unemployed,Yes,1
+4099,Primary School,6,No,Yes,Yes,No,Yes,23,Rented,Manufacturing,Yes,1
+4849,High School,4,Yes,Yes,No,No,No,6,Rented,Manufacturing,No,1
+4899,Primary School,2,No,No,No,No,No,38,Other,Services,No,1
+1618,Graduate,3,Yes,No,No,Yes,No,11,Owned,Agriculture,No,1
+4416,Primary School,3,No,No,Yes,Yes,Yes,32,Other,Manufacturing,No,1
+4916,High School,1,Yes,No,No,No,No,1,Rented,Agriculture,Yes,1
+3872,High School,6,Yes,Yes,No,No,Yes,46,Owned,Manufacturing,No,1
+2166,College,2,No,No,Yes,Yes,No,35,Other,Unemployed,No,1
+1052,High School,3,Yes,No,Yes,No,No,27,Other,Manufacturing,No,0
+4161,College,5,No,Yes,Yes,Yes,Yes,17,Owned,Unemployed,Yes,1
+2794,Graduate,4,Yes,Yes,No,No,Yes,4,Other,Services,No,1
+3461,Graduate,2,No,Yes,No,No,Yes,39,Owned,Manufacturing,No,1
+4184,College,3,No,No,Yes,No,No,41,Rented,Unemployed,No,1
+4999,Graduate,7,No,No,No,No,No,38,Owned,Unemployed,No,1
+2416,College,6,Yes,Yes,No,Yes,Yes,27,Owned,Unemployed,Yes,1
+4492,Graduate,6,Yes,No,Yes,No,Yes,33,Rented,Agriculture,Yes,0
+3559,Graduate,6,Yes,No,Yes,Yes,No,46,Rented,Unemployed,Yes,0
+3116,College,4,No,No,No,No,Yes,15,Other,Services,Yes,1
+3595,No Education,4,No,Yes,Yes,Yes,Yes,42,Owned,Services,Yes,1
+3422,Graduate,5,Yes,No,Yes,Yes,Yes,43,Owned,Services,Yes,0
+4910,College,1,No,No,Yes,No,No,46,Rented,Manufacturing,No,1
+2932,High School,7,No,No,Yes,No,No,40,Rented,Manufacturing,Yes,1
+1684,No Education,4,Yes,No,Yes,Yes,Yes,30,Rented,Unemployed,No,1
+3054,Primary School,4,No,No,No,No,Yes,5,Owned,Unemployed,No,1
+2827,Graduate,3,No,No,No,Yes,Yes,12,Rented,Services,No,1
+1291,College,5,No,Yes,No,Yes,No,8,Rented,Services,No,1
+1256,College,2,No,Yes,No,Yes,Yes,18,Rented,Services,Yes,1
+3751,Primary School,3,Yes,Yes,No,No,Yes,31,Owned,Manufacturing,Yes,1
+1542,College,5,Yes,No,Yes,No,Yes,5,Owned,Manufacturing,Yes,0
+3959,Primary School,6,Yes,Yes,Yes,No,Yes,28,Owned,Services,No,0
+2306,Primary School,3,No,No,No,No,No,11,Rented,Services,No,1
+3467,High School,5,No,No,No,No,Yes,37,Other,Agriculture,Yes,1
+3714,Graduate,2,No,No,Yes,No,No,19,Rented,Agriculture,Yes,1
+2990,No Education,3,No,No,No,No,No,41,Other,Unemployed,Yes,1
+1784,Primary School,7,No,No,No,No,No,45,Other,Services,No,1
+3322,Graduate,1,Yes,Yes,Yes,No,No,18,Other,Unemployed,No,0
+1654,No Education,2,Yes,No,Yes,No,No,29,Owned,Agriculture,No,1
+2965,Graduate,7,No,Yes,Yes,Yes,No,18,Owned,Services,No,1
+3593,College,5,No,Yes,Yes,No,No,42,Owned,Manufacturing,Yes,1
+4818,No Education,4,No,Yes,Yes,No,Yes,40,Other,Unemployed,Yes,1
+3604,College,1,Yes,No,Yes,Yes,Yes,11,Rented,Manufacturing,No,0
+4116,Primary School,5,Yes,Yes,Yes,No,Yes,47,Owned,Unemployed,Yes,0
+1864,No Education,1,No,No,Yes,Yes,No,10,Owned,Manufacturing,No,1
+4890,No Education,3,Yes,Yes,Yes,No,Yes,37,Owned,Unemployed,No,0
+2544,Graduate,3,No,No,Yes,Yes,Yes,49,Owned,Services,Yes,1
+3200,Graduate,7,No,No,Yes,No,Yes,27,Rented,Unemployed,No,1
+1210,High School,1,No,No,No,No,Yes,21,Owned,Services,No,1
+3270,No Education,5,Yes,Yes,Yes,Yes,No,49,Rented,Manufacturing,Yes,0
+3902,Graduate,6,Yes,Yes,No,No,Yes,40,Rented,Services,Yes,1
+2413,No Education,5,Yes,Yes,Yes,No,No,43,Other,Services,Yes,0
+2552,College,7,Yes,No,Yes,No,Yes,33,Rented,Manufacturing,Yes,0
+4651,High School,3,Yes,Yes,No,No,Yes,12,Other,Agriculture,No,1
+2394,High School,2,Yes,Yes,Yes,No,Yes,15,Other,Manufacturing,Yes,0
+1588,High School,1,No,Yes,No,Yes,No,14,Owned,Unemployed,Yes,1
+2261,No Education,4,Yes,Yes,No,Yes,Yes,25,Owned,Unemployed,Yes,1
+1723,High School,1,Yes,Yes,No,No,No,21,Rented,Services,No,1
+1163,No Education,3,Yes,Yes,Yes,No,No,4,Owned,Manufacturing,Yes,0
+3323,No Education,7,Yes,No,Yes,Yes,No,37,Owned,Services,Yes,1
+2968,College,5,No,No,Yes,No,No,24,Owned,Manufacturing,No,1
+4401,High School,1,No,Yes,No,No,Yes,16,Other,Agriculture,No,1
+2727,Graduate,1,No,Yes,No,Yes,No,30,Other,Services,Yes,1
+3062,No Education,4,Yes,Yes,Yes,No,No,17,Other,Agriculture,No,0
+2276,No Education,4,No,Yes,No,Yes,Yes,10,Owned,Manufacturing,Yes,1
+2171,Graduate,3,No,Yes,No,Yes,Yes,45,Other,Unemployed,No,1
+1148,Graduate,1,No,No,Yes,No,Yes,1,Rented,Manufacturing,No,1
+3907,No Education,2,No,Yes,Yes,Yes,No,11,Rented,Manufacturing,Yes,1
+2901,No Education,1,Yes,Yes,Yes,No,Yes,46,Rented,Services,No,0
+4492,College,1,Yes,Yes,No,No,Yes,44,Owned,Manufacturing,Yes,1
+1492,Graduate,7,No,Yes,No,Yes,Yes,28,Rented,Manufacturing,Yes,1
+1187,No Education,3,Yes,Yes,No,No,Yes,40,Other,Manufacturing,Yes,1
+3113,High School,2,Yes,Yes,Yes,Yes,Yes,9,Other,Unemployed,No,0
+4939,High School,3,No,No,No,No,No,28,Owned,Agriculture,Yes,1
+3539,Graduate,5,Yes,Yes,No,No,No,17,Owned,Agriculture,Yes,1
+2358,Primary School,7,Yes,No,No,Yes,Yes,24,Other,Agriculture,Yes,1
+4958,No Education,1,No,No,No,Yes,Yes,15,Rented,Agriculture,Yes,1
+4345,Primary School,6,Yes,Yes,No,No,No,14,Rented,Services,No,1
+3846,No Education,6,No,Yes,Yes,Yes,Yes,43,Rented,Agriculture,Yes,1
+3684,College,3,Yes,No,No,No,Yes,7,Owned,Agriculture,No,1
+4336,High School,2,No,Yes,Yes,Yes,Yes,29,Owned,Unemployed,Yes,1
+2447,High School,5,No,No,Yes,Yes,Yes,21,Other,Agriculture,Yes,1
+1878,Graduate,7,Yes,Yes,Yes,Yes,Yes,40,Owned,Manufacturing,Yes,1
+1445,Primary School,6,No,Yes,Yes,No,Yes,8,Owned,Agriculture,No,1
+1844,College,4,Yes,Yes,No,No,No,16,Owned,Services,No,1
+1260,No Education,6,No,No,Yes,No,No,38,Other,Manufacturing,No,1
+4991,Primary School,3,Yes,No,Yes,Yes,No,5,Owned,Agriculture,Yes,0
+3769,College,6,No,No,Yes,No,Yes,32,Owned,Unemployed,Yes,1
+3980,Primary School,4,Yes,Yes,No,Yes,No,21,Rented,Agriculture,Yes,1
+3518,Graduate,5,Yes,No,No,Yes,Yes,2,Rented,Manufacturing,No,1
+3799,No Education,1,Yes,No,No,No,Yes,48,Rented,Manufacturing,Yes,1
+1976,Graduate,1,No,Yes,No,Yes,Yes,45,Rented,Agriculture,Yes,1
+1888,College,5,No,No,No,No,Yes,14,Rented,Services,No,1
+3604,Graduate,6,Yes,Yes,Yes,No,Yes,6,Other,Unemployed,No,0
+1031,Primary School,7,Yes,No,No,Yes,Yes,39,Rented,Services,No,1
+1817,Graduate,2,No,Yes,Yes,No,Yes,47,Rented,Unemployed,No,1
+2848,High School,6,Yes,Yes,Yes,Yes,No,7,Other,Unemployed,Yes,0
+2536,No Education,1,No,Yes,No,Yes,No,36,Other,Unemployed,Yes,1
+1049,College,4,Yes,Yes,No,No,No,43,Owned,Services,Yes,1
+1667,College,6,Yes,No,No,No,Yes,21,Other,Manufacturing,No,1
+2961,High School,1,Yes,Yes,No,Yes,Yes,18,Other,Services,No,1
+2488,No Education,7,Yes,Yes,Yes,Yes,No,11,Owned,Services,Yes,1
+2315,Primary School,3,Yes,No,Yes,Yes,No,10,Rented,Agriculture,No,0
+4690,Graduate,2,No,Yes,Yes,No,Yes,28,Other,Manufacturing,No,1
+1823,Graduate,5,Yes,Yes,No,Yes,Yes,4,Other,Manufacturing,Yes,1
+3585,College,3,Yes,No,Yes,Yes,No,15,Rented,Services,Yes,0
+4321,No Education,3,Yes,No,Yes,Yes,Yes,19,Owned,Manufacturing,Yes,1
+3960,Graduate,6,No,Yes,Yes,No,No,45,Owned,Agriculture,Yes,1
+3221,Primary School,2,No,No,No,Yes,Yes,1,Rented,Services,No,1
+3380,High School,1,Yes,No,No,Yes,No,32,Rented,Services,Yes,1
+1201,No Education,1,Yes,Yes,No,Yes,Yes,20,Owned,Services,Yes,1
+3298,High School,2,No,Yes,No,No,Yes,25,Owned,Unemployed,No,1
+3819,Primary School,2,No,Yes,Yes,Yes,No,20,Rented,Unemployed,No,1
+1486,College,2,No,Yes,No,No,Yes,12,Other,Manufacturing,Yes,1
+4210,Primary School,4,No,No,No,No,No,10,Other,Agriculture,Yes,1
+4345,No Education,5,No,No,No,No,Yes,44,Owned,Manufacturing,No,1
+4858,Graduate,2,Yes,No,No,No,Yes,28,Owned,Services,Yes,1
+4820,Graduate,7,Yes,No,Yes,Yes,Yes,24,Other,Unemployed,Yes,0
+1283,No Education,1,No,Yes,No,No,Yes,9,Other,Unemployed,Yes,1
+3609,Graduate,5,No,Yes,No,Yes,No,11,Other,Agriculture,Yes,1
+3926,College,7,No,No,Yes,Yes,No,44,Rented,Unemployed,No,1
+2870,College,5,Yes,Yes,Yes,Yes,Yes,26,Owned,Services,No,0
+2247,No Education,6,No,Yes,No,No,No,18,Owned,Agriculture,No,1
+2741,College,4,Yes,No,No,Yes,Yes,10,Owned,Agriculture,Yes,1
+2583,Graduate,3,Yes,Yes,Yes,Yes,Yes,35,Rented,Services,No,0
+3026,Graduate,4,No,No,No,Yes,No,24,Other,Agriculture,No,1
+3316,High School,5,No,No,No,No,No,9,Owned,Services,No,1
+3248,Primary School,6,No,No,No,Yes,No,18,Owned,Services,No,1
+1074,Graduate,2,No,No,No,Yes,Yes,18,Other,Agriculture,No,1
+4058,Graduate,1,Yes,Yes,Yes,No,No,49,Other,Unemployed,Yes,0
+4357,College,1,Yes,Yes,No,No,Yes,34,Other,Manufacturing,No,1
+4641,Primary School,1,Yes,No,Yes,Yes,No,23,Other,Unemployed,No,0
+1007,No Education,1,Yes,Yes,Yes,Yes,No,7,Owned,Manufacturing,No,0
+2343,College,4,No,No,No,Yes,No,10,Owned,Manufacturing,No,1
+4328,Graduate,3,Yes,No,No,Yes,Yes,28,Owned,Manufacturing,Yes,1
+1557,Graduate,6,No,Yes,No,No,Yes,40,Owned,Unemployed,No,1
+2068,No Education,5,No,No,No,No,No,44,Other,Agriculture,No,1
+1946,Primary School,6,No,No,No,Yes,Yes,2,Owned,Manufacturing,Yes,1
+4570,High School,6,Yes,No,Yes,No,Yes,45,Rented,Agriculture,No,0
+4800,No Education,4,Yes,No,Yes,Yes,No,37,Other,Manufacturing,Yes,1
+2090,Graduate,7,Yes,Yes,No,Yes,Yes,26,Owned,Unemployed,Yes,1
+2291,Graduate,1,No,No,Yes,Yes,Yes,49,Owned,Agriculture,No,1
+2218,College,2,Yes,Yes,No,Yes,Yes,45,Rented,Manufacturing,Yes,1
+4159,No Education,1,No,Yes,Yes,Yes,Yes,23,Owned,Agriculture,No,1
+3826,High School,1,Yes,Yes,No,Yes,Yes,16,Rented,Unemployed,No,1
+2149,Graduate,5,Yes,Yes,Yes,No,No,42,Owned,Agriculture,No,0
+1275,High School,6,Yes,Yes,No,No,No,47,Owned,Unemployed,Yes,1
+4253,Graduate,6,No,No,Yes,Yes,No,48,Other,Services,Yes,1
+3581,College,2,Yes,Yes,Yes,Yes,No,33,Owned,Unemployed,Yes,0
+4965,College,3,Yes,Yes,No,Yes,Yes,29,Other,Unemployed,Yes,1
+4714,Primary School,7,No,Yes,Yes,No,No,4,Rented,Services,No,1
+2997,No Education,2,Yes,No,No,No,Yes,14,Other,Manufacturing,No,1
+2692,College,7,No,Yes,Yes,No,Yes,24,Rented,Services,Yes,1
+1928,College,1,No,No,No,No,No,33,Owned,Unemployed,No,1
+2142,Graduate,2,No,No,No,No,Yes,48,Rented,Services,No,1
+1844,High School,3,Yes,Yes,No,Yes,Yes,6,Rented,Unemployed,Yes,1
+4157,College,1,No,No,No,No,No,12,Other,Agriculture,No,1
+3696,College,1,No,Yes,No,No,Yes,41,Rented,Agriculture,No,1
+4336,Graduate,6,No,Yes,Yes,No,Yes,43,Owned,Agriculture,No,1
+1956,College,7,No,Yes,No,No,No,9,Owned,Agriculture,No,1
+4143,High School,1,No,Yes,Yes,Yes,Yes,42,Other,Unemployed,Yes,1
+2203,No Education,2,No,No,No,No,Yes,48,Owned,Manufacturing,Yes,1
+2466,Primary School,1,Yes,No,Yes,Yes,Yes,31,Other,Services,Yes,0
+4924,No Education,7,Yes,No,Yes,No,Yes,24,Other,Unemployed,No,1
+2498,Graduate,3,Yes,No,No,Yes,No,12,Rented,Unemployed,Yes,1
+2424,Graduate,5,Yes,No,Yes,No,Yes,5,Other,Unemployed,Yes,0
+1829,Graduate,4,Yes,Yes,Yes,No,No,22,Other,Services,Yes,0
+4925,Graduate,1,No,No,Yes,No,Yes,45,Rented,Unemployed,Yes,1
+4001,College,7,Yes,Yes,No,No,Yes,32,Owned,Services,No,1
+1635,High School,5,Yes,No,Yes,No,No,28,Rented,Unemployed,Yes,0
+3331,High School,1,No,Yes,No,No,No,18,Other,Manufacturing,Yes,1
+3515,High School,7,No,Yes,No,Yes,Yes,30,Other,Agriculture,No,1
+2036,College,6,Yes,Yes,Yes,Yes,Yes,25,Owned,Unemployed,No,1
+3166,High School,5,No,No,No,No,No,46,Owned,Agriculture,Yes,1
+3306,Primary School,2,No,Yes,No,Yes,Yes,4,Owned,Services,Yes,1
+2087,High School,1,Yes,No,No,No,Yes,4,Rented,Services,Yes,1
+1815,Graduate,1,No,Yes,No,Yes,Yes,18,Rented,Services,Yes,1
+2560,High School,4,Yes,No,Yes,Yes,Yes,31,Rented,Manufacturing,No,0
+2010,College,3,No,Yes,No,No,No,35,Other,Services,No,1
+3033,Graduate,3,No,No,Yes,Yes,Yes,47,Owned,Services,Yes,1
+4690,No Education,4,No,Yes,Yes,No,No,16,Other,Agriculture,Yes,1
+1140,College,4,Yes,No,No,No,Yes,27,Other,Services,Yes,1
+2670,College,7,No,Yes,No,Yes,Yes,30,Rented,Manufacturing,No,1
+1597,Primary School,5,No,No,No,No,Yes,8,Owned,Unemployed,No,1
+2501,Primary School,1,Yes,Yes,Yes,No,No,33,Rented,Manufacturing,Yes,0
+4015,No Education,6,Yes,Yes,No,Yes,No,21,Owned,Agriculture,Yes,1
+1174,No Education,5,Yes,Yes,Yes,No,No,8,Other,Manufacturing,Yes,0
+3156,High School,2,No,No,Yes,No,Yes,9,Rented,Agriculture,No,1
+4306,Primary School,3,No,No,No,Yes,No,16,Owned,Services,Yes,1
+2704,Graduate,6,No,No,No,No,Yes,24,Rented,Manufacturing,Yes,1
+4178,High School,7,No,Yes,Yes,No,No,32,Other,Manufacturing,No,1
+3981,Primary School,2,No,No,Yes,Yes,Yes,25,Rented,Agriculture,No,1
+3365,Primary School,7,Yes,No,Yes,No,No,35,Other,Services,No,0
+1759,High School,7,No,Yes,Yes,No,No,36,Other,Unemployed,No,1
+4028,College,1,No,Yes,No,Yes,No,34,Rented,Agriculture,No,1
+2079,High School,2,No,No,No,Yes,No,6,Owned,Unemployed,No,1
+4247,Primary School,5,Yes,Yes,Yes,Yes,Yes,42,Rented,Unemployed,Yes,0
+3458,Primary School,4,Yes,Yes,Yes,No,Yes,42,Owned,Agriculture,No,0
+1390,No Education,6,Yes,No,No,No,No,47,Owned,Agriculture,Yes,1
+1593,High School,4,Yes,No,No,Yes,No,11,Rented,Services,No,1
+1409,Primary School,7,Yes,Yes,Yes,Yes,Yes,5,Rented,Services,Yes,1
+4911,No Education,4,No,Yes,No,Yes,No,30,Owned,Manufacturing,Yes,1
+2399,Graduate,7,No,No,No,Yes,No,11,Rented,Agriculture,No,1
+4438,Primary School,5,No,Yes,No,No,No,17,Rented,Unemployed,No,1
+4662,College,4,No,Yes,Yes,No,No,26,Owned,Agriculture,Yes,1
+2677,Graduate,2,Yes,No,Yes,Yes,No,30,Other,Unemployed,No,0
+1902,Primary School,6,Yes,No,Yes,No,No,47,Other,Unemployed,No,1
+1117,Primary School,7,No,No,Yes,Yes,No,21,Owned,Services,No,1
+2110,College,3,Yes,No,Yes,No,Yes,12,Owned,Services,No,0
+4809,No Education,7,No,No,No,No,No,31,Other,Manufacturing,No,1
+3525,Graduate,6,Yes,No,Yes,No,No,41,Rented,Services,No,0
+2267,Primary School,3,Yes,No,Yes,No,Yes,7,Rented,Services,No,0
+4219,Graduate,7,Yes,Yes,No,No,Yes,7,Rented,Agriculture,No,1
+3489,Primary School,6,Yes,Yes,Yes,Yes,No,25,Other,Agriculture,No,0
+3187,College,4,Yes,No,No,No,No,46,Rented,Services,Yes,1
+4319,High School,2,Yes,Yes,Yes,Yes,Yes,37,Rented,Unemployed,Yes,0
+3616,No Education,1,Yes,Yes,Yes,Yes,No,25,Rented,Services,Yes,0
+3561,No Education,1,No,No,No,No,Yes,39,Rented,Unemployed,No,1
+1564,No Education,4,Yes,No,Yes,No,No,27,Owned,Unemployed,No,1
+1818,Graduate,1,No,Yes,Yes,No,No,8,Other,Agriculture,No,1
+4360,No Education,7,No,No,No,Yes,No,43,Owned,Unemployed,Yes,1
+2078,Primary School,5,Yes,No,Yes,Yes,Yes,48,Rented,Manufacturing,Yes,0
+2722,High School,2,No,No,Yes,No,No,4,Owned,Unemployed,No,1
+2272,High School,4,Yes,No,Yes,No,Yes,34,Owned,Agriculture,Yes,0
+2340,No Education,3,Yes,No,Yes,No,Yes,47,Owned,Services,No,1
+4704,High School,4,Yes,No,Yes,Yes,Yes,6,Rented,Agriculture,No,0
+3303,Primary School,1,Yes,Yes,Yes,Yes,No,29,Owned,Unemployed,Yes,0
+2554,No Education,7,Yes,No,Yes,Yes,No,12,Other,Unemployed,No,1
+1406,Primary School,6,Yes,Yes,Yes,No,No,4,Rented,Unemployed,No,1
+3414,Graduate,7,Yes,Yes,Yes,No,Yes,39,Owned,Manufacturing,No,0
+2877,Primary School,7,No,No,Yes,Yes,No,13,Rented,Agriculture,Yes,1
+4598,Primary School,3,Yes,Yes,No,No,Yes,35,Rented,Agriculture,Yes,1
+2708,High School,6,No,Yes,No,No,No,1,Owned,Services,No,1
+1141,Primary School,3,No,Yes,No,Yes,Yes,5,Other,Manufacturing,Yes,1
+3060,No Education,7,Yes,Yes,No,No,Yes,7,Other,Unemployed,No,1
+2196,Primary School,3,Yes,No,Yes,No,No,36,Owned,Services,No,0
+2996,College,4,Yes,Yes,No,No,No,40,Other,Unemployed,No,1
+3655,No Education,1,Yes,No,No,Yes,Yes,30,Other,Agriculture,No,1
+4578,Primary School,1,Yes,Yes,Yes,No,Yes,3,Rented,Agriculture,Yes,0
+4666,College,2,No,No,No,Yes,Yes,39,Other,Unemployed,No,1
+1310,College,6,Yes,No,No,No,Yes,8,Other,Manufacturing,Yes,1
+1856,High School,1,No,No,Yes,No,No,12,Other,Unemployed,No,1
+1072,No Education,5,Yes,Yes,No,Yes,No,26,Rented,Services,No,1
+1426,No Education,2,Yes,No,Yes,Yes,No,10,Other,Agriculture,No,1
+1857,College,7,Yes,No,Yes,Yes,No,1,Other,Unemployed,No,1
+1908,College,4,No,No,No,Yes,Yes,6,Owned,Unemployed,Yes,1
+3747,Graduate,2,Yes,No,Yes,Yes,No,1,Rented,Unemployed,Yes,0
+4971,High School,1,No,Yes,Yes,Yes,No,42,Other,Services,No,1
+4740,Graduate,7,Yes,Yes,Yes,Yes,Yes,7,Other,Services,Yes,0
+1400,High School,7,No,No,No,Yes,Yes,22,Owned,Services,Yes,1
+1611,Graduate,1,Yes,Yes,No,No,No,22,Owned,Services,No,1
+2910,No Education,5,No,No,No,No,No,2,Owned,Manufacturing,No,1
+3002,Primary School,5,Yes,No,Yes,No,No,9,Other,Agriculture,Yes,0
+4773,College,6,No,Yes,Yes,Yes,Yes,48,Rented,Manufacturing,No,1
+3272,No Education,1,No,Yes,No,No,No,42,Owned,Unemployed,Yes,1
+4793,No Education,6,Yes,Yes,Yes,Yes,Yes,30,Owned,Agriculture,Yes,0
+2868,High School,5,Yes,No,Yes,No,Yes,19,Rented,Services,Yes,0
+2083,High School,7,Yes,No,Yes,Yes,No,23,Rented,Manufacturing,Yes,1
+3370,Graduate,6,No,No,Yes,Yes,Yes,20,Other,Manufacturing,Yes,1
+4330,No Education,7,Yes,No,Yes,Yes,Yes,15,Rented,Agriculture,No,1
+4990,No Education,5,No,No,No,Yes,Yes,20,Owned,Agriculture,No,1
+3565,College,7,No,No,No,No,Yes,2,Owned,Unemployed,No,1
+3256,Primary School,1,Yes,No,Yes,No,No,26,Rented,Services,No,0
+4829,Primary School,1,Yes,No,Yes,Yes,No,49,Other,Services,Yes,0
+1644,High School,3,Yes,Yes,No,Yes,No,8,Owned,Agriculture,No,1
+4334,College,6,Yes,Yes,Yes,No,Yes,31,Rented,Services,Yes,0
+4513,No Education,6,No,No,No,No,No,10,Other,Agriculture,Yes,1
+2932,Primary School,5,No,No,Yes,No,No,18,Rented,Unemployed,No,1
+4766,Primary School,5,No,Yes,No,Yes,Yes,24,Other,Services,Yes,1
+2337,College,2,No,Yes,Yes,Yes,Yes,13,Owned,Manufacturing,No,1
+1338,Primary School,2,Yes,Yes,Yes,Yes,Yes,48,Other,Unemployed,Yes,0
+3949,High School,7,Yes,Yes,No,Yes,No,21,Other,Services,Yes,1
+1039,Graduate,1,Yes,Yes,No,Yes,No,18,Rented,Services,No,1
+3363,College,4,Yes,Yes,Yes,No,Yes,15,Other,Agriculture,No,0
+2897,Primary School,6,No,No,No,Yes,No,35,Other,Agriculture,No,1
+2400,Primary School,7,No,Yes,No,No,Yes,16,Owned,Services,No,1
+2114,College,3,Yes,No,No,No,Yes,32,Other,Agriculture,Yes,1
+3207,No Education,1,Yes,No,Yes,No,No,46,Owned,Agriculture,No,1
+4892,College,1,No,Yes,No,No,No,37,Rented,Services,Yes,1
+4885,College,6,Yes,No,No,No,Yes,28,Rented,Agriculture,Yes,1
+3962,No Education,1,No,Yes,No,No,Yes,32,Other,Unemployed,No,1
+1058,College,3,Yes,No,Yes,Yes,No,12,Owned,Services,No,0
+3038,High School,5,No,Yes,No,Yes,Yes,32,Rented,Services,Yes,1
+4414,High School,6,No,No,No,No,No,37,Owned,Services,No,1
+3968,Graduate,7,Yes,No,No,No,No,23,Rented,Manufacturing,No,1
+4357,High School,7,No,No,No,Yes,No,6,Other,Services,Yes,1
+2732,Graduate,2,Yes,Yes,Yes,No,No,29,Owned,Unemployed,Yes,0
+3702,Primary School,2,No,No,No,Yes,Yes,14,Owned,Services,Yes,1
+1127,Graduate,6,Yes,No,Yes,No,No,3,Rented,Unemployed,No,1
+2224,College,4,No,No,Yes,No,No,26,Other,Manufacturing,No,1
+2259,College,3,No,No,Yes,No,Yes,16,Other,Unemployed,No,1
+2158,No Education,5,Yes,No,No,Yes,Yes,16,Rented,Services,Yes,1
+4205,No Education,2,Yes,Yes,No,No,No,40,Rented,Manufacturing,No,1
+2526,Primary School,3,Yes,No,No,No,Yes,22,Owned,Agriculture,Yes,1
+1246,Primary School,7,No,No,Yes,No,No,20,Rented,Manufacturing,Yes,1
+4279,Graduate,7,No,Yes,Yes,Yes,No,36,Other,Agriculture,Yes,1
+2221,Graduate,5,Yes,No,No,No,No,37,Rented,Manufacturing,No,1
+1359,Primary School,1,No,Yes,No,No,No,27,Rented,Unemployed,No,1
+1505,Graduate,5,Yes,No,Yes,No,Yes,43,Owned,Agriculture,Yes,0
+4580,College,1,Yes,Yes,No,No,Yes,13,Owned,Services,No,1
+4617,Graduate,2,Yes,No,No,No,Yes,47,Rented,Agriculture,No,1
+3412,Graduate,6,Yes,No,Yes,No,Yes,6,Owned,Manufacturing,No,0
+4309,Primary School,3,Yes,Yes,No,No,No,26,Owned,Agriculture,No,1
+2236,No Education,2,Yes,No,No,Yes,No,24,Owned,Manufacturing,Yes,1
+3064,High School,3,Yes,Yes,No,No,Yes,3,Owned,Unemployed,No,1
+4267,High School,2,Yes,Yes,Yes,No,Yes,35,Other,Unemployed,No,0
+1268,Graduate,1,Yes,Yes,No,No,Yes,46,Owned,Manufacturing,Yes,1
+4244,High School,1,No,No,No,No,No,17,Other,Manufacturing,No,1
+3549,College,5,No,Yes,No,Yes,Yes,5,Rented,Manufacturing,Yes,1
+4553,College,2,No,No,No,No,No,3,Owned,Manufacturing,Yes,1
+4430,No Education,3,No,No,Yes,Yes,Yes,23,Rented,Manufacturing,No,1
+2014,No Education,5,No,No,Yes,No,Yes,49,Other,Agriculture,No,1
+4534,Graduate,5,No,No,Yes,Yes,Yes,12,Rented,Manufacturing,No,1
+2318,Graduate,4,Yes,No,Yes,No,No,22,Other,Unemployed,No,0
+1965,College,2,Yes,No,No,Yes,No,37,Owned,Manufacturing,Yes,1
+4521,High School,5,No,Yes,No,Yes,Yes,25,Other,Services,No,1
+1708,College,7,Yes,No,Yes,No,No,18,Other,Services,Yes,1
+2515,Graduate,3,No,No,No,Yes,No,12,Owned,Unemployed,No,1
+1343,High School,4,Yes,No,No,Yes,Yes,30,Rented,Services,Yes,1
+2351,College,4,No,No,No,No,Yes,42,Other,Services,Yes,1
+3017,No Education,3,Yes,No,No,Yes,Yes,35,Rented,Services,No,1
+3593,College,6,No,Yes,No,Yes,Yes,48,Rented,Services,Yes,1
+2506,No Education,4,No,Yes,No,Yes,Yes,48,Other,Manufacturing,Yes,1
+2250,High School,5,Yes,No,No,Yes,No,36,Owned,Manufacturing,No,1
+2393,No Education,3,Yes,No,Yes,No,No,41,Owned,Manufacturing,No,1
+4318,Graduate,4,Yes,Yes,No,No,No,28,Rented,Unemployed,No,1
+3167,College,6,Yes,No,No,Yes,Yes,9,Owned,Agriculture,No,1
+3959,Primary School,2,No,Yes,Yes,No,No,25,Rented,Manufacturing,Yes,1
+3043,No Education,6,No,Yes,Yes,Yes,Yes,30,Other,Unemployed,Yes,1
+3377,High School,7,Yes,Yes,Yes,Yes,No,45,Rented,Unemployed,No,0
+2840,College,1,Yes,Yes,No,Yes,No,38,Owned,Manufacturing,No,1
+1670,High School,5,No,Yes,Yes,Yes,Yes,6,Rented,Agriculture,No,1
+4011,No Education,7,Yes,No,Yes,Yes,No,25,Rented,Manufacturing,Yes,1
+1991,Primary School,2,Yes,No,No,No,Yes,12,Owned,Unemployed,No,1
+4268,Graduate,6,Yes,Yes,Yes,No,Yes,8,Other,Unemployed,Yes,0
+2984,No Education,6,No,No,Yes,No,No,47,Owned,Manufacturing,Yes,1
+1888,Graduate,5,Yes,Yes,No,No,No,24,Rented,Services,No,1
+2230,College,3,Yes,No,Yes,Yes,Yes,35,Other,Services,No,0
+4911,No Education,1,No,Yes,No,No,Yes,38,Owned,Unemployed,No,1
+3599,No Education,2,Yes,Yes,No,No,No,7,Owned,Unemployed,No,1
+4741,High School,2,No,Yes,No,No,No,25,Other,Services,Yes,1
+3296,High School,4,Yes,No,Yes,Yes,No,24,Other,Agriculture,No,0
+1201,Graduate,6,Yes,No,No,No,No,18,Owned,Services,Yes,1
+3848,College,2,Yes,Yes,No,Yes,No,14,Owned,Agriculture,No,1
+4665,College,6,Yes,Yes,Yes,Yes,Yes,30,Owned,Agriculture,No,0
+2600,College,6,No,Yes,Yes,No,No,19,Rented,Unemployed,No,1
+3790,High School,7,Yes,Yes,Yes,Yes,Yes,21,Owned,Unemployed,Yes,0
+4536,College,2,Yes,Yes,No,No,No,15,Other,Manufacturing,No,1
+2322,Primary School,7,No,Yes,Yes,No,No,8,Owned,Unemployed,Yes,1
+4758,Graduate,3,No,No,No,Yes,Yes,6,Rented,Unemployed,Yes,1
+1919,Graduate,6,Yes,No,No,No,Yes,31,Other,Agriculture,No,1
+4935,No Education,5,Yes,Yes,Yes,Yes,Yes,12,Owned,Services,Yes,0
+1494,College,3,Yes,No,Yes,No,Yes,47,Other,Agriculture,Yes,0
+4082,No Education,6,Yes,No,No,No,Yes,17,Rented,Manufacturing,No,1
+4021,College,5,Yes,Yes,No,Yes,No,5,Rented,Services,No,1
+1863,Graduate,2,Yes,Yes,Yes,Yes,No,16,Owned,Agriculture,Yes,0
+3892,College,6,No,No,No,No,Yes,30,Rented,Unemployed,No,1
+4600,Primary School,6,Yes,Yes,Yes,Yes,Yes,17,Rented,Services,Yes,0
+4086,Graduate,4,No,No,No,No,No,21,Owned,Unemployed,Yes,1
+4033,Graduate,6,No,No,Yes,Yes,No,5,Owned,Unemployed,No,1
+3800,No Education,7,No,No,No,Yes,Yes,2,Owned,Agriculture,Yes,1
+4635,No Education,7,Yes,Yes,No,Yes,Yes,27,Rented,Manufacturing,No,1
+1744,High School,2,Yes,No,No,No,Yes,27,Other,Agriculture,No,1
+2311,Graduate,1,Yes,No,Yes,No,Yes,23,Rented,Unemployed,Yes,0
+3762,College,5,Yes,Yes,No,No,No,17,Owned,Manufacturing,No,1
+3264,No Education,2,Yes,Yes,Yes,Yes,No,37,Rented,Services,No,0
+1704,College,2,Yes,Yes,Yes,No,No,37,Other,Manufacturing,No,0
+4287,College,4,No,No,Yes,No,No,38,Owned,Agriculture,No,1
+4661,College,6,Yes,Yes,No,No,No,11,Other,Manufacturing,Yes,1
+3329,Graduate,4,No,No,Yes,Yes,Yes,1,Other,Unemployed,No,1
+1206,Primary School,7,No,No,No,No,No,37,Rented,Services,No,1
+1034,College,7,No,Yes,No,Yes,No,15,Owned,Manufacturing,Yes,1
+3127,High School,5,Yes,Yes,Yes,No,No,44,Rented,Manufacturing,Yes,0
+2511,High School,5,Yes,Yes,No,No,No,17,Owned,Agriculture,Yes,1
+2697,No Education,4,Yes,No,No,No,Yes,11,Owned,Manufacturing,No,1
+2051,Primary School,4,Yes,No,Yes,Yes,No,30,Rented,Unemployed,No,0
+4384,High School,7,Yes,Yes,No,Yes,Yes,34,Other,Manufacturing,No,1
+2784,High School,3,No,No,No,No,Yes,34,Owned,Manufacturing,Yes,1
+4350,Primary School,6,No,Yes,Yes,No,No,11,Other,Services,No,1
+3087,Graduate,5,No,No,No,No,No,37,Owned,Manufacturing,No,1
+1891,Graduate,2,No,Yes,Yes,Yes,Yes,11,Other,Agriculture,No,1
+2834,No Education,2,No,No,Yes,Yes,No,8,Rented,Services,No,1
+3705,Graduate,7,Yes,No,No,Yes,Yes,3,Rented,Agriculture,Yes,1
+3616,College,6,No,No,No,No,Yes,22,Rented,Unemployed,Yes,1
+3311,High School,3,No,Yes,No,Yes,No,16,Owned,Manufacturing,No,1
+1388,Primary School,7,No,Yes,No,Yes,No,14,Owned,Agriculture,No,1
+3376,Primary School,4,Yes,Yes,Yes,Yes,Yes,6,Owned,Services,Yes,0
+3442,High School,1,No,Yes,Yes,Yes,No,31,Owned,Unemployed,Yes,1
+3533,Graduate,1,No,Yes,Yes,No,Yes,44,Rented,Unemployed,Yes,1
+1496,High School,4,No,No,No,No,Yes,22,Owned,Manufacturing,Yes,1
+4133,Primary School,4,Yes,No,Yes,No,No,27,Other,Manufacturing,No,0
+4917,Graduate,5,No,Yes,No,Yes,No,37,Owned,Manufacturing,Yes,1
+1167,High School,7,No,Yes,No,Yes,No,31,Owned,Manufacturing,No,1
+3824,College,3,No,Yes,No,Yes,Yes,24,Rented,Manufacturing,No,1
+2459,No Education,7,Yes,Yes,Yes,Yes,Yes,31,Owned,Unemployed,Yes,1
+3644,College,5,Yes,Yes,No,No,Yes,40,Other,Manufacturing,No,1
+1294,No Education,5,No,Yes,Yes,No,Yes,2,Owned,Services,No,1
+2394,College,7,Yes,No,No,Yes,No,16,Other,Unemployed,No,1
+4423,College,4,No,Yes,Yes,No,Yes,3,Rented,Unemployed,Yes,1
+2521,College,7,No,No,Yes,Yes,Yes,24,Rented,Agriculture,Yes,1
+3581,College,6,Yes,No,Yes,Yes,Yes,13,Rented,Services,Yes,0
+2058,Graduate,2,Yes,Yes,No,No,No,32,Owned,Services,Yes,1
+3476,No Education,4,No,Yes,No,No,No,17,Other,Unemployed,No,1
+1573,College,5,No,No,Yes,Yes,Yes,5,Other,Services,No,1
+4310,College,2,No,Yes,Yes,Yes,No,1,Owned,Manufacturing,Yes,1
+2286,High School,6,Yes,Yes,Yes,No,Yes,16,Owned,Manufacturing,Yes,1
+2432,No Education,2,Yes,No,No,Yes,Yes,41,Rented,Services,Yes,1
+4521,No Education,7,Yes,No,No,Yes,Yes,20,Owned,Services,Yes,1
+2869,College,2,No,Yes,Yes,Yes,Yes,33,Other,Unemployed,No,1
+2301,Graduate,4,No,No,Yes,Yes,No,44,Other,Agriculture,No,1
+2898,Graduate,1,Yes,No,No,Yes,No,25,Other,Services,Yes,1
+2164,College,2,No,No,Yes,Yes,Yes,36,Other,Manufacturing,No,1
+4938,Graduate,3,No,Yes,Yes,No,Yes,1,Rented,Manufacturing,No,1
+4803,High School,2,Yes,Yes,No,No,Yes,1,Rented,Agriculture,No,1
+1374,High School,5,Yes,No,No,No,Yes,4,Rented,Agriculture,Yes,1
+1895,College,4,No,Yes,Yes,No,Yes,38,Other,Services,Yes,1
+2004,High School,6,Yes,Yes,No,Yes,No,7,Rented,Manufacturing,No,1
+3691,Primary School,2,No,Yes,No,Yes,No,2,Rented,Unemployed,No,1
+4077,Primary School,3,Yes,Yes,Yes,Yes,Yes,2,Owned,Services,Yes,0
+1152,Graduate,2,No,No,Yes,Yes,No,23,Other,Agriculture,No,1
+3358,No Education,6,Yes,No,No,Yes,No,9,Rented,Agriculture,No,1
+4616,Primary School,1,No,Yes,Yes,No,Yes,19,Owned,Agriculture,No,1
+2340,Graduate,3,No,Yes,No,No,Yes,24,Owned,Unemployed,No,1
+3892,Primary School,3,No,No,Yes,Yes,Yes,46,Rented,Manufacturing,Yes,1
+2329,Graduate,4,Yes,No,Yes,No,Yes,44,Rented,Unemployed,Yes,0
+4686,College,1,No,No,Yes,No,Yes,19,Other,Manufacturing,No,1
+4032,No Education,6,No,No,Yes,No,Yes,41,Owned,Agriculture,No,1
+1043,College,4,Yes,Yes,No,Yes,No,25,Rented,Unemployed,No,1
+2080,No Education,4,No,Yes,No,No,Yes,31,Rented,Agriculture,Yes,1
+1373,No Education,3,Yes,Yes,Yes,Yes,No,1,Other,Agriculture,No,0
+1419,High School,2,No,No,Yes,No,Yes,19,Owned,Services,No,1
+2349,No Education,3,Yes,Yes,No,Yes,No,33,Owned,Agriculture,Yes,1
+1156,Graduate,2,No,No,Yes,Yes,Yes,21,Rented,Manufacturing,Yes,1
+1700,High School,2,Yes,Yes,Yes,Yes,Yes,27,Other,Manufacturing,No,0
+1274,College,3,Yes,Yes,Yes,Yes,Yes,6,Rented,Services,Yes,0
+2465,No Education,5,No,No,No,Yes,No,2,Owned,Services,No,1
+3184,Primary School,5,Yes,Yes,No,Yes,Yes,7,Rented,Unemployed,Yes,1
+2975,No Education,4,No,No,No,No,Yes,25,Rented,Unemployed,No,1
+2362,Primary School,1,No,No,No,No,No,31,Rented,Unemployed,No,1
+3625,Primary School,3,Yes,Yes,No,Yes,Yes,6,Rented,Agriculture,No,1
+4841,Graduate,5,Yes,No,No,Yes,No,2,Rented,Manufacturing,Yes,1
+2437,College,3,No,No,Yes,Yes,No,42,Owned,Unemployed,Yes,1
+4796,No Education,5,Yes,Yes,Yes,No,No,48,Rented,Services,Yes,0
+1085,No Education,2,No,Yes,Yes,No,No,21,Other,Agriculture,Yes,1
+4811,High School,6,Yes,No,Yes,Yes,Yes,15,Other,Agriculture,No,0
+2100,Primary School,2,No,Yes,Yes,No,Yes,9,Owned,Services,Yes,1
+3375,No Education,2,Yes,No,Yes,Yes,No,43,Rented,Services,No,1
+3039,Graduate,4,No,Yes,Yes,Yes,No,15,Rented,Agriculture,Yes,1
+1493,No Education,7,Yes,Yes,Yes,Yes,Yes,15,Other,Services,Yes,1
+1695,No Education,5,No,Yes,No,Yes,Yes,16,Owned,Manufacturing,Yes,1
+2877,No Education,5,No,Yes,No,Yes,Yes,8,Owned,Agriculture,Yes,1
+1258,Graduate,2,Yes,Yes,Yes,No,Yes,45,Owned,Services,Yes,0
+1377,Primary School,3,No,Yes,No,Yes,Yes,46,Other,Services,No,1
+4033,College,7,No,Yes,No,Yes,Yes,4,Owned,Services,No,1
+3097,No Education,3,No,Yes,Yes,No,No,2,Owned,Unemployed,No,1
+2531,Graduate,6,No,No,Yes,No,No,21,Other,Agriculture,Yes,1
+2172,Primary School,3,Yes,No,No,No,Yes,46,Rented,Unemployed,No,1
+1433,High School,6,Yes,Yes,Yes,No,Yes,31,Other,Unemployed,Yes,1
+1038,College,6,Yes,Yes,Yes,Yes,No,17,Other,Manufacturing,No,1
+2866,High School,3,No,Yes,No,No,Yes,5,Rented,Agriculture,No,1
+2345,College,5,No,No,No,Yes,Yes,16,Owned,Manufacturing,No,1
+4589,No Education,2,Yes,Yes,No,No,Yes,35,Owned,Manufacturing,No,1
+1484,Primary School,3,No,No,Yes,No,Yes,37,Rented,Services,No,1
+1815,No Education,4,Yes,Yes,No,Yes,No,20,Other,Unemployed,No,1
+2216,High School,6,Yes,Yes,Yes,No,No,38,Owned,Unemployed,No,1
+3396,Graduate,4,Yes,No,No,Yes,Yes,12,Other,Agriculture,Yes,1
+4804,Primary School,3,No,Yes,Yes,Yes,Yes,5,Rented,Services,No,1
+4734,No Education,3,No,No,Yes,No,Yes,46,Rented,Unemployed,No,1
+1886,No Education,6,No,Yes,No,No,No,46,Owned,Agriculture,Yes,1
+4989,Graduate,1,No,No,No,No,No,38,Rented,Unemployed,No,1
+3858,No Education,2,Yes,Yes,Yes,Yes,Yes,41,Other,Manufacturing,No,0
+4494,No Education,5,No,No,Yes,Yes,No,23,Rented,Unemployed,No,1
+3877,No Education,7,No,No,No,Yes,Yes,39,Owned,Agriculture,Yes,1
+3802,Graduate,6,No,No,Yes,No,Yes,38,Owned,Manufacturing,Yes,1
+1032,High School,6,Yes,Yes,No,Yes,Yes,3,Other,Agriculture,Yes,1
+3906,Primary School,4,No,Yes,No,Yes,Yes,38,Rented,Agriculture,Yes,1
+2284,High School,5,No,Yes,Yes,No,No,17,Owned,Manufacturing,Yes,1
+4011,High School,1,No,Yes,No,No,Yes,38,Owned,Agriculture,No,1
+2369,College,6,Yes,Yes,Yes,Yes,Yes,2,Rented,Services,No,1
+1904,Graduate,7,No,No,No,No,Yes,32,Owned,Agriculture,Yes,1
+4177,No Education,3,No,No,Yes,No,Yes,38,Other,Services,Yes,1
+3573,Primary School,1,Yes,Yes,No,No,Yes,49,Owned,Agriculture,No,1
+4128,Graduate,7,Yes,Yes,Yes,Yes,Yes,24,Rented,Services,No,0
+1846,Primary School,4,Yes,Yes,Yes,Yes,Yes,14,Other,Manufacturing,Yes,0
+4191,High School,6,No,No,Yes,No,No,14,Rented,Agriculture,Yes,1

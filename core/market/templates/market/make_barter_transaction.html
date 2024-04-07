@@ -1,0 +1,13 @@
+<!-- market/templates/market/make_barter_transaction.html -->
+{% include 'homeApp/base.html' %}
+
+{% block content %}
+  <h2>Make Barter Transaction</h2>
+  <div class="transaction-form">
+    <form method="post">
+      {% csrf_token %}
+      <p>Are you sure you want to proceed with the barter transaction for {{ barter_request.product.name }}?</p>
+      <button type="submit" class="btn btn-primary">Confirm Transaction</button>
+    </form>
+  </div>
+{% endblock %}

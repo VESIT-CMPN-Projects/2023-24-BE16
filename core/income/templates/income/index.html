@@ -1,0 +1,165 @@
+{% extends 'homeApp/base.html' %}
+{% load static %}
+
+{% block content %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Predict Farming Income</title>
+    
+    <!-- Bootstrap CSS (Add the Bootstrap CDN link if not included in your project) -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    
+    <style>
+         body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            margin: 20px;
+        }
+
+        .navbar {
+            background-color: black;
+            color: white;
+        }
+
+        h2 {
+            padding-top: 100px;
+            text-decoration: wavy;
+           font-weight: 700;
+            text-align: center;
+            color: black;
+            margin-bottom: 30px;
+            text-transform: uppercase; /* Uppercase text */
+            letter-spacing: 2px; /* Increase letter spacing */
+        }
+
+        form {
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border: 2px solid black;
+        }
+
+        label {
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: #555;
+        }
+
+
+        input {
+            padding: 10px;
+            margin-bottom: 20px;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        button {
+            background-color: #007bff;
+            color: #fff;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            width: 100%;
+            font-size: 16px;
+            transition: background-color 0.3s ease;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        #result {
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        .spinner-border {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>Predict Farming Income</h2>
+
+    <form id="predictionForm" method="post" action="{% url 'predict_farming_income' %}">
+        {% csrf_token %}
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label for="historical_income">Historical Income:</label>
+                    <input type="text" class="form-control" id="historical_income" name="historical_income" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="weather_forecasts">Weather Forecasts:</label>
+                    <input type="text" class="form-control" id="weather_forecasts" name="weather_forecasts" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="crop_type">Crop Type:</label>
+                    <input type="text" class="form-control" id="crop_type" name="crop_type" required>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label for="market_conditions">Market Conditions:</label>
+                    <input type="text" class="form-control" id="market_conditions" name="market_conditions" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="investment_machinery">Investment Machinery:</label>
+                    <input type="text" class="form-control" id="investment_machinery" name="investment_machinery" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="expenses">Expenses:</label>
+                    <input type="text" class="form-control" id="expenses" name="expenses" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="profit_margin">Profit Margin:</label>
+                    <input type="text" class="form-control" id="profit_margin" name="profit_margin" required>
+                </div>
+            </div>
+        </div>
+
+        <button type="submit" id="predictBtn">Predict</button>
+        <div class="spinner-border text-primary" role="status">
+            <span class="sr-only">Loading...</span>
+        </div>
+    </form>
+
+    <!-- Add this inside the <body> tag -->
+    <div id="result">
+    {% if predicted_income %}
+        <h3>Predicted Farming Income: {{ predicted_income }}</h3>
+    {% endif %}
+    </div>
+</div>
+
+<!-- Bootstrap JS (Add the Bootstrap CDN link if not included in your project) -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+<script>
+    // Show loading spinner on form submission
+    document.getElementById('predictionForm').addEventListener('submit', function () {
+        document.getElementById('predictBtn').style.display = 'none';
+        document.querySelector('.spinner-border').style.display = 'inline-block';
+    });
+</script>
+
+</body>
+</html>
+
+{% endblock %}

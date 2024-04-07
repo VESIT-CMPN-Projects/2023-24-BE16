@@ -1,0 +1,23 @@
+<!-- market/templates/market/show_barter_requests.html -->
+{% extends 'homeApp/base.html' %}
+
+{% block content %}
+  <div class="container mt-5">
+    <h2 class="text-center mb-4">Barter Requests for {{ product.name }}</h2>
+    {% for request in barter_requests %}
+      <div class="card mt-3">
+        <div class="card-body">
+          <h5 class="card-title">Requester: {{ request.requester.username }}</h5>
+          <p class="card-text"><strong>Email:</strong> {{ request.requester.email }}</p>
+          <p class="card-text"><strong>Phone Number:</strong> {{ request.requester.profile.phone_number }}</p>
+          <p class="card-text"><strong>Message:</strong> {{ request.message }}</p>
+          <form method="post" action="{% url 'market:make_barter_transaction' request.id %}">
+            {% csrf_token %}
+            <!-- <a href="{% url 'market:buy_product' product.id %}" class="btn btn-primary">Approve</a> -->
+          </form>
+        </div>
+      </div>
+    {% endfor %}
+    <a href="{% url 'market:my_products' %}" class="btn btn-secondary mt-3">Back to My Products</a>
+  </div>
+{% endblock %}

@@ -1,0 +1,59 @@
+<!-- buy_product.html -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <!-- Your other scripts -->
+</head>
+<body>
+    <!-- buy_product.html -->
+{% extends 'homeApp/base.html' %}
+
+{% block content %}
+  <div class="container mt-5">
+    <div class="row justify-content-center">
+      <div class="col-md-8">
+        <div class="card">
+          <div class="card-header">
+            <h2 class="mb-0">Product Details</h2>
+          </div>
+          <div class="card-body">
+            <p><strong>Name:</strong> {{ product.name }}</p>
+            <p><strong>Description:</strong> {{ product.description }}</p>
+            <p><strong>Price:</strong> {{ product.price }}</p>
+            <!-- Add more details if needed -->
+          </div>
+        </div>
+
+        <div class="card mt-3">
+          <div class="card-header">
+            <h2 class="mb-0">Seller Information</h2>
+          </div>
+          <div class="card-body">
+            <p><strong>Username:</strong> {{ seller_info.username }}</p>
+            <p><strong>Email:</strong> {{ seller_info.email }}</p>
+            <p><strong>Phone Number:</strong> {{ seller_info.phone_number }}</p>
+            <!-- Add more seller details if needed -->
+          </div>
+        </div>
+
+        <div class="text-center mt-3">
+          <a href="{% url 'market:product_list' %}" class="btn btn-success">Back to Product List</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Include Bootstrap JS (make sure you have Bootstrap CSS and JS linked in your base.html) -->
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+{% endblock %}
+
+</body>
+</html>

@@ -1,0 +1,89 @@
+{% extends 'adminNavbar/navbar.html' %}
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="{% static 'govtServices/style.css'%}">
+</head>
+
+{% block content %}
+<body>
+    <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
+        <div class="content">
+            <div class="row">
+                <div class="col-6">
+                    <h2 class="mb-4"><i class="far fa-calendar-alt icon"></i> Events</h2>
+                </div>
+                <div class="col-6 text-right">
+                    <button class="btn btn-success" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+                        <i class="fas fa-plus"></i>Add event </button>
+                </div>
+            </div>
+                    
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="card">
+                        {% for event in governmentEvents %}
+                        <div class="card-header">
+                            <h2>{{event.event_name}}</h2>
+                        </div>
+                        <div class="card-body">
+                            <p class="description">{{event.event_description}}</p>
+                            <p class="date">Date of Event : {{event.event_date}}</p>
+                            <p class="contact">Contact : {{event.event_contact}}</p>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>   
+    </div>
+
+        </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+        <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+            <h1 class="modal-title fs-4 fst-italic" id="staticBackdropLabel">Add Event</h1>
+            </div>
+            <div class="modal-body">
+                <form method="post" action="{% url 'govtEvents:addEvent' %}">
+                    {% csrf_token %}
+                    <div class="mb-3">
+                      <label for="eventName" class="form-label">Event Name</label>
+                      <input class="form-control" id="eventName" type="text" name="eventName">
+                    </div>
+                    <div class="mb-3">
+                      <label for="eventDescription" class="form-label">Description</label>
+                      <textarea name="eventDescription" class="form-control" cols="30" rows="8"></textarea>
+                    </div>
+                    <div class="mb-3">
+                        <label for="eventDate" class="form-label">Date of Event</label>
+                        <input class="form-control" id="eventDate" type="date" name="eventDate">
+                      </div>
+                    
+                    <div class="mb-3">
+                        <label for="eventContact" class="form-label">Contact</label>
+                        <input class="form-control" id="eventContact" type="text" name="eventContact">
+                    </div>
+
+                    <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-success">Add</button>
+                    </div>
+
+                </form>
+            </div>
+        </div>
+        </div>
+    </div>
+</main>
+     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+</body>
+    {% endblock %}
+
+</html>

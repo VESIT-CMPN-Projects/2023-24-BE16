@@ -1,0 +1,144 @@
+<!-- village_info_system/grievance/templates/grievance/grievance_form.html -->
+{% include 'homeApp/base.html' %}
+{% block content %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Grievance Form</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <style>
+        body {
+            /* padding: 20px; */
+            background-color: #f8f9fa; /* Light gray background */
+        }
+        .card {
+            margin-bottom: 20px;
+            border: 1px solid #ced4da; /* Light gray border */
+            border-radius: 10px; /* Rounded corners */
+            animation: fadeIn 1s ease-in-out; /* Fade-in animation */
+        }
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+        .btn-primary {
+            background-color: #007bff; /* Blue primary button color */
+            border-color: #007bff;
+        }
+        .icon {
+            margin-right: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <div class="card">
+                    <div class="card-body">
+                        <h2 class="card-title text-center mb-4">Grievance Form</h2>
+                        <form method="post" enctype="multipart/form-data" action="{% url 'grievance_form' %}">
+                            {% csrf_token %}
+
+                            <div class="form-group">
+                                <label for="full_name" class="translate" data-en="Full Name" data-mr="पूर्ण नाव" data-hi="पूरा नाम">Full Name:</label>
+                                <input type="text" class="form-control" name="full_name" required>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="contact_number" class="translate" data-en="Contact Number" data-mr="संपर्क क्रमांक" data-hi="संपर्क नंबर">Contact Number:</label>
+                                <input type="text" class="form-control" name="contact_number" required>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="address" class="translate" data-en="Address" data-mr="पत्ता" data-hi="पता">Address:</label>
+                                <textarea class="form-control" name="address" rows="4" required></textarea>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="gender" class="translate" data-en="Gender" data-mr="लिंग" data-hi="लिंग">Gender:</label>
+                                <select class="form-control" name="gender" required>
+                                    <option value="" disabled selected>Select Gender</option>
+                                    <option value="male" class="translate" data-en="Male" data-mr="पुरुष" data-hi="पुरुष">Male</option>
+                                    <option value="female" class="translate" data-en="Female" data-mr="स्त्री" data-hi="स्त्री">Female</option>
+                                </select>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="grievance_category" class="translate" data-en="Grievance Category" data-mr="तक्रार वर्ग" data-hi="शिकायत श्रेणी">Grievance Category:</label>
+                                <select class="form-control" name="grievance_category" required>
+                                    <option value="" disabled selected>Select Grievance Category</option>
+                                    <option value="axes">Axes</option>
+                                    <option value="road_conditions">Road Conditions</option>
+                                    <option value="water_supply">Water Supply</option>
+                                    <option value="electricity">Electricity</option>
+                                    <option value="payment_issues">Payment Issues</option>
+                                    <option value="noise_disputes">Noise Disputes</option>
+                                    <option value="other">Other (please specify)</option>
+                                </select>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="grievance_description" class="translate" data-en="Grievance Description" data-mr="तक्रार वर्णन" data-hi="शिकायत विवरण">Grievance Description:</label>
+                                <textarea class="form-control" name="grievance_description" rows="4" required></textarea>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="attachment" class="translate" data-en="Attachment" data-mr="अटॅचमेंट" data-hi="अटैचमेंट">Attachment:</label>
+                                <input type="file" class="form-control-file" name="attachment">
+                            </div>
+
+                            <div class="form-group">
+                                <label for="preferred_resolution" class="translate" data-en="Preferred Resolution" data-mr="पसंतीत निराकरण" data-hi="पसंदीदा समाधान">Preferred Resolution:</label>
+                                <select class="form-control" name="preferred_resolution" required>
+                                    <option value="" disabled selected>Select Preferred Resolution</option>
+                                    <option value="immediate_resolution" class="translate" data-en="Immediate resolution" data-mr="तात्पुरते निराकरण" data-hi="तात्कालिक निराकरण">Immediate resolution</option>
+                                    <option value="investigation_required" class="translate" data-en="Investigation required" data-mr="तपासणी आवश्यक" data-hi="जांच आवश्यक">Investigation required</option>
+                                    <option value="follow_up_required" class="translate" data-en="Follow-up required" data-mr="नुकसान आवश्यक" data-hi="फॉलो-अप आवश्यक">Follow-up required</option>
+                                </select>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="target_language" class="translate" data-en="Select target language" data-mr="लक्षित भाषा निवडा" data-hi="लक्षित भाषा का चयन करें">Select target language:</label>
+                                <select class="form-control" name="target_language">
+                                    <option value="en" selected>English</option>
+                                    <option value="mr" class="translate" data-en="Marathi" data-mr="मराठी" data-hi="मराठी">Marathi</option>
+                                    <option value="hi" class="translate" data-en="Hindi" data-mr="हिंदी" data-hi="हिंदी">Hindi</option>
+                                </select>
+                            </div>
+
+                            <button type="submit" class="btn btn-primary">Submit Grievance</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function changeLanguage() {
+            var selectedLanguage = $("select[name='target_language']").val();
+            $(".translate").each(function () {
+                var translationKey = $(this).data(selectedLanguage);
+                if (translationKey) {
+                    $(this).text(translationKey);
+                }
+            });
+        }
+
+        $("select[name='target_language']").on("change", changeLanguage);
+        $(document).ready(function () {
+            changeLanguage();
+        });
+    </script>
+</body>
+</html>
+{% endblock %}
+
